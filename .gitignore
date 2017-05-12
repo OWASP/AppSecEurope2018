@@ -1,0 +1,8 @@
+_site/
+.sass-cache/
+.jekyll-metadata
+.DS_Store
+tmp/
+
+assets/css/.style.scss.swp
+/.project

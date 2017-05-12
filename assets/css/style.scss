@@ -1,0 +1,55 @@
+---
+---
+@import "reset.css";
+
+*{
+	box-sizing: border-box;
+}
+
+html {
+	background: #004895 url('/assets/images/map_of_europe.svg') center center no-repeat;
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+	font-family: 'Lato', sans-serif;
+}
+
+body {
+	background: #fff url('/assets/images/owasp_main_version.jpg') center 1.5em no-repeat;
+	background-size: 30% auto;
+	margin: 5em 0em;
+	text-align: center;
+	color: #444;
+	padding-top: 12em;
+	border: 2em solid #004895;
+	border-right: none;
+	border-left: none;
+}
+
+h1 {
+	font-size: 250%;
+	line-height: 1.5em;
+	font-weight: bolder;
+}
+h2 {
+	font-size: 180%;
+	line-height: 1.5em;
+	color: #666;
+	font-weight: bolder;
+}
+h3 {
+	font-size: 170%;
+	line-height: 1.5em;
+	color: #666;
+	font-weight: bold;
+}
+div {
+	background: #eee;
+	padding: 1em 0em 2em 0em;
+}
+
+sup {
+	font-size: 60%;
+	position: relative;
+	top: -0.333em;
+}

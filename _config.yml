@@ -1,0 +1,24 @@
+port: 4000
+lsi: false
+markdown: kramdown
+include:
+gems:
+
+# Since GH pages override this to "true", we test this value to see if we are running locally
+safe: false
+
+excerpt_separator: <!--more-->
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
