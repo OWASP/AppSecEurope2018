@@ -1,0 +1,19 @@
+---
+title: Team
+---
+<section>
+
+<h1>The Team</h1>
+
+<ul class="team-list">
+{% for member in site.data.team.conferenceteam %}
+<li>
+	<img src="../assets/images/team/{{member.image | default: 'owasp_logo.png'}}" alt="{{member.name}} {{member.role}}">
+	<h4>{{member.name}}</h4>
+	<span class="role">{{member.role}}</span>
+</li>
+{% endfor %}
+</ul>
+
+
+</section>
