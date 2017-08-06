@@ -60,10 +60,10 @@ header {
 		.logo {
 			position: absolute;
 			top: 0; left: 1em;
-			
-			img {
-				height: 10em;
-			}
+			width: 20em;
+			height: 10em;
+			background: url(../images/logo.svg) 120% 45% no-repeat;
+			background-size: auto 150%;
 		}
 
 
@@ -148,7 +148,7 @@ header {
 		border-top: none;
 		background-size: cover;
 		background-position: top left;
-		
+
 		> div {
 			padding: 4.5em 4em;
 			width: 100%;
