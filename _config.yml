@@ -4,6 +4,8 @@ markdown: kramdown
 include:
 gems:
 
+multiply: url(/assets/images/waves.png), url(/assets/images/simpleback.svg)
+
 # Since GH pages override this to "true", we test this value to see if we are running locally
 safe: false
 
