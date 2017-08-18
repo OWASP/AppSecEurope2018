@@ -88,7 +88,7 @@ button {
 		width: 4em;
 		height: 4em;
 		text-align: center;
-		padding-top: 0.8em;
+		padding-top: 1em;
 		display: inline-block;
 		position: relative;
 		margin-right: 1em;
@@ -98,7 +98,7 @@ button {
 		content: attr(data-content);
 		font-weight: 200;
 		color: #fff;
-		font-size: 250%;
+		font-size: 200%;
 	}
 	div::after {
 		font-size: 75%;
