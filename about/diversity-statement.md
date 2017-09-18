@@ -1,6 +1,7 @@
 ---
 title: Diversity statement
 ---
+
 # {{page.title}}
 
 The crux of security is the ability to think flexibly and creatively about multi-stakeholder problems. It is the goal of OWASP to connect the community and enable serendipity, in order to accelerate the speed of change. In our view, security can only be enhanced when practitioners approach problems with diverse critical thinking theories and practices. To this end OWASP seeks to be an inclusive organization for practitioners from all cultural, gender, language, educational, ability, religious, and career backgrounds.  OWASP actively encourages speakers, trainers, and leaders of all sexual orientations, ages, and ethnicity.  Our formal efforts in this vein include blind evaluations of talk and training proposals for our Global AppSec Conferences and active recruiting of diverse invited speakers.
