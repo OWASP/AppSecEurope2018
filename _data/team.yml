@@ -31,3 +31,22 @@ conferenceteam:
     role: Conference Chair
     title: Director of Threat Research at Akamai Technologies
     image: ory_segal.png
+staff: 
+  - name: Claudia Aviles-Casanovas
+    role: Project Coordinator
+    image: 
+  - name: Matt Tesauro
+    role: IT
+    image: Matt-Tesauro-150x150.png
+  - name: Laura Grau
+    role: Event Manager
+    image: Laura-Grau-150x150.png
+  - name: Kelly Santalucia
+    role: Membership and Business Liaison
+    image: staff-kelly_santalucia.png
+  - name: Hugo Costa
+    role: Graphic Design
+    image: OWASP_Staff6_Hugo_Costa-Graphic_Design.jpg
+  - name: Tiffany Long
+    role: Community Manager
+    image:
