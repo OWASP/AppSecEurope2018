@@ -1,0 +1,65 @@
+{% if site.safe %}{% assign baseUrl = "/AppSecEurope2018/" %}{% else %}{% assign baseUrl = "/" %}{% endif %}<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/icons/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/icons/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/icons/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/icons/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/icons/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/icons/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/icons/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/icons/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="/assets/icons/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/icons/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/icons/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+  <meta name="description" content="OWASP Appsec Europe 2018 - Tel Aviv">
+  <title>{{ page.title }}</title>
+	<link href="https://fonts.googleapis.com/css?family=Exo+2|Montserrat:100,200,300,400" rel="stylesheet"> 
+  <link type="text/css" rel="stylesheet" href="{{baseUrl}}assets/css/style.css?_={{ site.time | date: '%s' }}">
+  <script src="{{baseUrl}}assets/js/script.js?_={{ site.time | date: '%s' }}"></script>
+  
+
+</head>
+<body>
+
+<header>
+	<div class="top">
+		<a href="{{baseUrl}}" class="logo">
+		</a>
+		<div id="counter">
+			<div data-content="0" data-label="days"></div><div data-content="0" data-label="hours"></div><div data-content="0" data-label="min"></div><div data-content="0" data-label="sec"></div>
+		</div>
+	</div>
+<nav>
+    <a href="#" class="burger dropdown-toggle" aria-haspopup="true" aria-expanded="false" data-toggle="dropdown">☰</a>
+    <ul class="nav navbar-nav">
+    {% for menu in site.data.menus %}
+      {% if menu.items %}
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{menu.title}}</a>
+            <ul class="dropdown-menu">
+            {% for item in menu.items %}
+                <li><a href="{{baseUrl}}{{item.url}}">{{item.title}}</a></li>
+            {% endfor %}
+            </ul>
+        </li>
+      {% else %}
+        <li>
+          <a href="{{baseUrl}}{{menu.url}}">{{menu.title}}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+  </nav>
+</header>

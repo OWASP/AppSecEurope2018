@@ -1,2 +1,6 @@
 - title: About
-  url  : about/
+  items:
+  - title: OWASP
+    url  : about/
+  - title: Diversity statement
+    url  : about/diversity-statement
