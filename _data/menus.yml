@@ -2,5 +2,7 @@
   items:
   - title: OWASP
     url  : about/
+  - title: Team
+    url  : about/team
   - title: Diversity statement
     url  : about/diversity-statement
