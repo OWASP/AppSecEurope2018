@@ -1,0 +1,38 @@
+
+ul.team-list {
+	display: flex;
+	flex-wrap: wrap;
+	list-style: none;
+	margin: 0px -25px;
+	padding: 1em 0em;
+	justify-content: space-between;
+
+	h4 {
+		color: $light;
+	}
+
+	&:after {
+		content: "";
+		flex: auto;
+	}
+
+	> li {
+		max-width: 50%;
+		width: 200px;
+		text-align: center;
+		padding-bottom: 1em;
+
+		div {
+			margin: 0 auto;
+			width: 150px;
+			height: 150px;
+			border-radius: 50%;
+			background-position: center center;
+			background-size:cover;
+		}
+
+		span {
+			display: block;
+		}
+	}
+}

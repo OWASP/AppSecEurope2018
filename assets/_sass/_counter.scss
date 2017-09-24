@@ -1,0 +1,44 @@
+#counter {
+	position: absolute;
+	top: 0; right: 0;
+	font-family: Montserrat;
+	div {
+		border-radius: 50%;
+		background-color: $light;
+		width: 4em;
+		height: 4em;
+		text-align: center;
+		padding-top: 1em;
+		display: inline-block;
+		position: relative;
+		margin-right: 1em;
+		margin-top: 2em;
+	}
+	div::before {
+		content: attr(data-content);
+		font-weight: 200;
+		color: #fff;
+		font-size: 200%;
+	}
+	div::after {
+		font-size: 75%;
+		content: attr(data-label);
+		text-transform: uppercase;				
+		position: absolute;
+		text-align: center;
+		top: 6em;
+		left: 50%;
+		margin-left: -50%;
+		width: 100%;
+		color: $medium;
+	}
+	div:nth-child(1) {
+		background-color: $medium;
+	}
+}
+
+@media (max-width: 500px) {
+	#counter {
+		display: none;
+	}
+}

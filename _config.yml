@@ -11,6 +11,9 @@ safe: false
 
 excerpt_separator: <!--more-->
 
+sass:
+  sass_dir: assets/_sass
+
 defaults:
   -
     scope:

@@ -1,11 +1,13 @@
 ---
 ---
-@import "reset.css";
+@import "reset";
+@import "vars";
+@import "counter";
+@import "header";
+@import "footer";
+@import "teamlist";
 
 
-$light: #2bb4d3;
-$medium: #055e6d;
-$dark: #152f30;
 
 html, body {
 	padding: 0;
@@ -101,262 +103,64 @@ button {
 	}
 }
 
-#counter {
-	position: absolute;
-	top: 0; right: 0;
-	font-family: Montserrat;
-	div {
-		border-radius: 50%;
-		background-color: $light;
-		width: 4em;
-		height: 4em;
-		text-align: center;
-		padding-top: 1em;
-		display: inline-block;
-		position: relative;
-		margin-right: 1em;
-		margin-top: 2em;
-	}
-	div::before {
-		content: attr(data-content);
-		font-weight: 200;
-		color: #fff;
-		font-size: 200%;
-	}
-	div::after {
-		font-size: 75%;
-		content: attr(data-label);
-		text-transform: uppercase;				
-		position: absolute;
-		text-align: center;
-		top: 6em;
-		left: 50%;
-		margin-left: -50%;
-		width: 100%;
-		color: $medium;
-	}
-	div:nth-child(1) {
-		background-color: $medium;
-	}
-}
-
-
-
-header {
-	position: relative;
-	.top {
-		height: 10em;
-		.logo {
-			position: absolute;
-			top: 0; left: 1em;
-			width: 20em;
-			height: 10em;
-			background: url(../images/logo.svg) 120% 45% no-repeat;
-			background-size: auto 150%;
-		}
-	}
-
-	nav {
-		background: rgba(4,11,13,0.5);
-		display: flex;
-		justify-content: right;
-		padding: 0.75em;
-		height: 2.5em;
-		margin-bottom: -2.5em;
-		position: relative;
-		z-index: 5;
-		font-size: 87.5%;
-
-		.burger {
-			display: none;
-			margin-left: 0.1em;
-		}
-		a {
-			color: #fff;
-			text-transform: uppercase;
-			padding: 0em 1em;
-			border-radius: 0.8em;
-			height: 1.6em;
-			&:hover{
-				background: #fff;
-				color: $medium;
-				text-decoration: none;
-			}
-			&:active {
-				background: $light;
-
-			}
-		}
-		> ul {
-			display: flex;
-			flex-wrap: wrap;
-			justify-content: flex-end;
-			list-style: none;
-			margin: 0;
-			padding: 0;
-			width: 100%;
-
-			> li {
-				min-width: 8em;
-				position: relative;
-				flex: 0 1 auto;
-				margin: 0;
-				padding: 0em 1em 2em 0em;
-				transition: all linear 0.1s;
-
-				&.dropdown > a:after {
-					content: "\25be";
-					margin-left: 0.25em;
-				}
-
-				> ul {
-					display: none;
-					position: absolute;
-					z-index: 2;
-					list-style: none;
-					xwidth: 12em;
-					white-space: nowrap;
-					margin: 0;
-					padding: 0;
-					background: rgba(4,11,13,0.5);
-					box-shadow: 0px 5px 2px rgba(0,0,0,0.5);
-					left: 0em;
-					top: 1.6em;
-					padding: 0.4em;
-					line-height: 1.5em;
-
-					a { text-transform: none; }
-				}
-				&:last-child {
-					ul {
-						left: auto;
-						right: -0.5em;
-					}
-				}
-
-			}
-
-			> li:hover > ul {
-				display: block;
-			}
-		}
-	}
-}
-
 .main {
 	min-height: 20em;
 	line-height: 1.25em;
+}
 
-	section {
-		padding: 2em 4em;
-	 	
-	 	&.inverse {
-			background-color: $medium;
-			color: #fff;
+section {
+	padding: 2em 4em;
+ 	
+ 	&.inverse {
+		background-color: $medium;
+		color: #fff;
 
-			button.dark {
-				background: #fff;
-				color: $medium;
-			}
-		}
-
-		&:first-of-type {
-			border-top: 2.3em solid $medium;
-		}
-
-		&.img {
-			color: #fff;
-			border-top: none;
-			background-size: cover;
-			background-position: top left;
-
-			padding: 4.5em 4em;
-			width: 100%;
-			height: 100%;
-			//background: rgba(0,92,100,0.5);
-			background-position: bottom right, bottom right, top left;
-			background-repeat: no-repeat, repeat-y, no-repeat;
-			background-size: 33% auto, cover, cover;	
-			background-blend-mode: normal, multiply, normal;
+		button.dark {
+			background: #fff;
+			color: $medium;
 		}
 	}
 
-
-	ul {
-		list-style: disc;
-		margin: 0.5em 1.5em;
+	&:first-of-type {
+		border-top: 2.3em solid $medium;
 	}
 
+	&.img {
+		color: #fff;
+		border-top: none;
+		background-size: cover;
+		background-position: top left;
 
-	ul.team-list {
-		display: flex;
-		flex-wrap: wrap;
-		list-style: none;
-		margin: 0px -25px;
-		padding: 1em 0em;
-		justify-content: space-between;
-
-		h4 {
-			color: $light;
-		}
-
-		&:after {
-			content: "";
-  		flex: auto;
-		}
-
-		> li {
-			max-width: 50%;
-			width: 200px;
-			text-align: center;
-			padding-bottom: 1em;
-
-			div {
-				margin: 0 auto;
-				width: 150px;
-				height: 150px;
-				border-radius: 50%;
-				background-position: center center;
-				background-size:cover;
-			}
-
-			span {
-				display: block;
-			}
-		}
+		padding: 4.5em 4em;
+		width: 100%;
+		height: 100%;
+		background-position: bottom right, bottom right, top left;
+		background-repeat: no-repeat, repeat-y, no-repeat;
+		background-size: 33% auto, cover, cover;	
+		background-blend-mode: normal, multiply, normal;
 	}
+}
 
 
+ul {
+	list-style: disc;
+	margin: 0.5em 1.5em;
 }
 
 
 
 
-footer {
 
-	background: $medium;
-	color: #fff;
-	text-align: center;
-	padding: 1em;
-}
+
+
+
+
+
 
 
 @media (max-width: 500px) {
 	body {
 		font-size: 90%;
-	}
-
-	header {
-		.top {
-			height: 5em;
-			.logo {
-				width: 10em;
-				height: 5em;				
-			}
-		}
-	}
-	#counter {
-		display: none;
 	}
 	.main {
 		section {
@@ -364,54 +168,6 @@ footer {
 			
 			&.img {
 			padding: 2.5em 1em;
-			}
-		}
-	}
-	header{
-		nav {
-			font-size: 100%;
-			padding: 0;
-			height: auto;
-			margin: 0;
-			background: $dark;
-			padding: 0.5em 0em;
-
-			.burger {
-				display: block;
-				padding: 0.3em 0.5em;
-				margin-left: 0em;
-			}
-
-			> ul {
-				display: none;
-			}
-
-			&:hover > ul, .burger:hover + ul {
-				display: block;	
-			}
-
-			> ul {
-				> li {
-					width: 100%;
-					flex: none;
-					padding: 0.3em 0.5em;
-
-					> ul {
-						position: relative;
-						z-index: 0;
-						width: 100%;
-						margin: 0 0 0 1em;
-						padding: 0.3em 0.5em;
-						background: transparent;
-						box-shadow: none;
-						left: auto;
-						top: auto;
-					}
-				}
-
-				> li:hover > ul {
-					display: block;
-				}
 			}
 		}
 	}
