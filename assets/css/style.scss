@@ -48,18 +48,40 @@ h1 {
 	}
 }
 
+.front {
+	h2 {
+		font-size: 275%;
+	}
+	h3 {
+		font-size: 200%;
+	}	
+}
+
 h2 {
-	font-size: 275%;
-}
-h3 {
 	font-size: 200%;
+	margin-top: 1em;
+	margin-bottom: 0.5em;
 }
+
+h3 {
+	font-size: 150%;
+	margin-top: 1em;
+	margin-bottom: 0.5em;
+}
+
 h4 {
 	font-size: 110%;
-	color: $light;
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 0.5em;
 }
+
 p {
 	margin-bottom: 1em;
+}
+
+strong {
+	font-weight: bold;
 }
 
 button {
@@ -273,6 +295,10 @@ header {
 		margin: 0px -25px;
 		padding: 1em 0em;
 		justify-content: space-between;
+
+		h4 {
+			color: $light;
+		}
 
 		&:after {
 			content: "";
