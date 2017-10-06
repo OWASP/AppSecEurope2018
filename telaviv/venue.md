@@ -5,7 +5,10 @@ title: Venue
 # {{page.title}}
 
 ## Intercontinental David Tel Aviv Hotel 
-The InterContinental David Tel Aviv hotel is the Conference Venue. Ideally located between Tel Aviv’s beach and the city’s trendiest areas, Neve Tzedek and Old Jaffa, the InterContinental David Tel Aviv hotel offers the perfect starting point to exploring the city. Discover designer shops and Tel Aviv’s best restaurants and nightlife, just minutes away. Spend the day experiencing Tel Aviv like a local and return to the serenity of the top luxury hotel in Tel Aviv. Accommodation Target Conferences is the official travel agent for the Conference and are offering special reduced rates for accommodation at the conference venue and neighboring hotels. Please see [www.owaspisrael.com](https://www.owaspisrael.com) to view the hotel options and to reserve your room. Tours Target Conferences is offering special pre and post conference tours. Optional, tailor-made, private car tours can be arranged upon request. Please see [www.owaspisrael.com](https://www.owaspisrael.com) for further information.
+The InterContinental David Tel Aviv hotel is the Conference Venue. Ideally located between Tel Aviv’s beach and the city’s trendiest areas, Neve Tzedek and Old Jaffa, the InterContinental David Tel Aviv hotel offers the perfect starting point to exploring the city. Discover designer shops and Tel Aviv’s best restaurants and nightlife, just minutes away. Spend the day experiencing Tel Aviv like a local and return to the serenity of the top luxury hotel in Tel Aviv.
+
+## Travel agent
+Accommodation Target Conferences is the official travel agent for the Conference and are offering special reduced rates for accommodation at the conference venue and neighboring hotels. Please see [www.owaspisrael.com](https://www.owaspisrael.com) to view the hotel options and to reserve your room. Tours Target Conferences is offering special pre and post conference tours. Optional, tailor-made, private car tours can be arranged upon request. Please see [www.owaspisrael.com](https://www.owaspisrael.com) for further information.
 
 ## Letter of Invitation
 
