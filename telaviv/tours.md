@@ -226,6 +226,9 @@ US$115 p/person
 **Note:** Good walking shoes, a sunhat and sunscreen lotion recommended. Bring along a
 bathing suit, towel and swim shoes for the &#39;dip&#39; in the Dead Sea.
 
+</section>
+<section markdown="1">
+
 ### TOURS TO PETRA, JORDAN ARE AVAILABLE ON REQUEST
 
 Please contact the Conference Secretariat:
