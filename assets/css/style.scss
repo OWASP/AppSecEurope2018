@@ -153,6 +153,9 @@ section {
 		background-size: 33% auto, cover, cover;	
 		background-blend-mode: normal, multiply, normal;
 	}
+	&.map {
+		padding: 0;
+	}
 }
 
 
