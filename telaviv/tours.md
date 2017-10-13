@@ -14,7 +14,6 @@ private car tours can be arranged upon request.
 </section>
 <section markdown="1">
 
-
 ### Pre-Conference Tour A - NAZARETH, SEA OF GALILEE
 
 **Full Day Tour**  
@@ -38,6 +37,8 @@ US$89 p/person
 
 **Note:** Modest dress (no shorts or sleeveless shirts) and head covering are required for visiting holy sites
 
+</section>
+<section markdown="1">
 
 
 ### Pre-Conference Tour B  - JERUSALEM AND BETHLEHEM
@@ -64,6 +65,8 @@ US$115 p/person
 **Note:** Good walking shoes recommended. Modest dress (no shorts or sleeveless shirts) and
 head covering are required for visiting holy sites
 
+</section>
+<section markdown="1">
 
 
 ### Pre-Conference Tour C - MASSADA AND THE DEAD SEA
@@ -88,6 +91,8 @@ US$115 p/person
 
 **Note:** Good walking shoes, a sunhat and sunscreen lotion recommended. Bring along a bathing suit, towel and swim shoes for the &#39;dip&#39; in the Dead Sea.
 
+</section>
+<section markdown="1">
 
 
 ### Pre-Conference Tour D - JERUSALEM AND BETHLEHEM
@@ -113,6 +118,9 @@ US$115 p/person
 **Note:** Good walking shoes recommended. Modest dress (no shorts or sleeveless shirts) and
 head covering are required for visiting holy sites
 
+</section>
+<section markdown="1">
+
 
 ### Post-Conference Tour E - MASSADA AND THE DEAD SEA
 **Full Day Tour**  
@@ -137,6 +145,10 @@ US$115 p/person
 **Note:** Good walking shoes, a sunhat and sunscreen lotion recommended. Bring along a
 bathing suit, towel and swim shoes for the &#39;dip&#39; in the Dead Sea.
 
+</section>
+<section markdown="1">
+
+
 ### Pre-Conference Tour F  - HAIFA AND CAESAREA
 **Half-Day Tour**  
 *Tuesday, June 19, 2018*
@@ -160,6 +172,8 @@ US$80 p/person
 **Note:** Good walking shoes recommended. Modest dress (no shorts or sleeveless shirts) and
 head covering are required for visit to the Bahai shrine.
 
+</section>
+<section markdown="1">
 
 
 ### Post-Conference Tour G - JERUSALEM AND YAD VASHEM
@@ -184,6 +198,9 @@ US$115 p/person
 
 **Note:** Good walking shoes recommended. Modest dress (no shorts or sleeveless shirts) and
 head covering are required for visiting holy sites
+
+</section>
+<section markdown="1">
 
 
 ### Post-Conference Tour H - MASSADA AND THE DEAD SEA

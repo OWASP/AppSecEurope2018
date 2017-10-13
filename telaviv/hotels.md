@@ -37,6 +37,9 @@ Check-out: 12:00
 
 **Late check-out:** from 12:00 until 16:00, you will be charged 50% of a one full night stay. After 16:00, you will be charged a one full night stay. 
 
+</section>
+<section markdown="1">
+
 ### Royal Beach Tel Aviv
 
 *A 7 minute walk from the Conference venue, Intercontinental David Tel Aviv Hotel*
@@ -50,6 +53,9 @@ Check-out: 12:00
 **Official check-in and check-out times:**  
 Check-in: 15:00  
 Check-out: 12:00
+
+</section>
+<section markdown="1">
 
 ### Prima City Hotel Tel Aviv
 
@@ -65,6 +71,9 @@ Check-out: 12:00
 Check-in: 14:00  
 Check-out: 11:00
 
+</section>
+<section markdown="1">
+
 ### Prima Tel Aviv Hotel
 
 *A 22 minute walk (8 minute drive) from the Conference venue, Intercontinental David Tel Aviv Hotel*
@@ -78,6 +87,9 @@ Check-out: 11:00
 **Official check-in and check-out times:**  
 Check-in: 14:00  
 Check-out: 11:00
+
+</section>
+<section markdown="1">
 
 ### Leonardo Art Tel Aviv Hotel
 
@@ -93,6 +105,9 @@ Check-out: 11:00
 Check-in: 15:00  
 Check-out: 11:00
 
+</section>
+<section markdown="1">
+
 ### Mercure Tel Aviv City Center
 
 *A 16 minute walk (6 minute drive) from the Conference venue, Intercontinental David Tel Aviv Hotel*
@@ -106,6 +121,9 @@ Check-out: 11:00
 **Official check-in and check-out times:**  
 Check-in: 14:00  
 Check-out: 12:00
+
+</section>
+<section markdown="1">
 
 ### Dan Panorama Tel Aviv Hotel
 
@@ -122,6 +140,9 @@ Check-out: 12:00
 Check-in: 15:00  
 Check-out: 11:00
 
+</section>
+<section markdown="1">
+
 ### Artplus Hotel Tel Aviv
 
 *A 19 minute walk (6 minute drive) from the Conference Venue, Intercontinental David Tel Aviv Hotel*
@@ -135,6 +156,9 @@ Check-out: 11:00
 **Official check-in and check-out times:**  
 Check-in: 14:00  
 Check-out: 12:00
+
+</section>
+<section markdown="1">
 
 ### Market House Hotel, Tel Aviv
 
@@ -150,6 +174,9 @@ Check-out: 12:00
 Check-in: 14:30  
 Check-out: 12:00
 
+</section>
+<section markdown="1">
+
 ### Cinema Hotel, Tel Aviv
 
 *A 26 minute walk (10 minute drive) from the Conference Venue, Intercontinental David Tel Aviv Hotel*
@@ -164,6 +191,9 @@ Check-out: 12:00
 Check-in: 14:00  
 Check-out: 12:00
 
+</section>
+<section markdown="1">
+
 ### Center Chic Hotel, Tel Aviv
 
 *A 26 minute walk (10 minute drive) from the Conference Venue, Intercontinental David Tel Aviv Hotel*
@@ -177,6 +207,9 @@ Check-out: 12:00
 **Official check-in and check-out times:**  
 Check-in: 14:00  
 Check-out: 12:00
+
+</section>
+<section markdown="1">
 
 ### Hotel Metropolitan
 
