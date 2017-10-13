@@ -193,14 +193,13 @@ table {
 	}
 	tbody {
 		tr {
-			border-bottom: 1px solid $light;
+			box-shadow: 0px 1px $light;
 		}
 		tr:last-of-type {
-			border-bottom: 0px;
+			box-shadow: none;
 		}
 	}
 }
-
 
 
 
