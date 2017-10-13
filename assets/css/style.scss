@@ -114,11 +114,12 @@ button {
 }
 
 section {
-	padding: 2em 4em;
+	padding: 0em 4em 2em 4em;
  	
  	&.inverse {
 		background-color: $medium;
 		color: #fff;
+		padding-top: 1em;
 
 		a {
 			color: $light;
@@ -129,9 +130,13 @@ section {
 			color: $medium;
 		}
 	}
+	&.inverse+section, &.img+section { padding-top: 1em; }
 
 	&:first-of-type {
 		border-top: 2.3em solid $medium;
+		&.inverse {
+			padding-top: 2em;
+		}
 	}
 
 	&.img {
