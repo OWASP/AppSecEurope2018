@@ -10,6 +10,8 @@
     url  : telaviv/travel
   - title: Things to do
     url  : telaviv/things-to-do
+  - title: Tours of Israel
+    url  : telaviv/tours
 - title: About
   items:
   - title: OWASP
