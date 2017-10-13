@@ -1,9 +1,8 @@
 ---
 title: Things To Do In Tel Aviv-Yafo
+image: attributed/info.goisrael.com_Dana_Friedlander__Jaffa_Port_norm.jpg
+imageposition: "center 30%"
 ---
-
-# {{page.title}}
-
 
 ## 1. BEACHES
 Tel Aviv’s west side is a 13-kilometer (eight-mile) stretch of sandy beaches, prompting National Geographic magazine to call Tel Aviv “Miami Beach on the Med.”

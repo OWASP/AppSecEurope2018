@@ -2,7 +2,8 @@
 title: Tours of Israel
 layout: multisection
 ---
-<section class="inverse" markdown="1">
+<section markdown="1" class="img" style="background-image: {{site.multiply}}, url(/assets/images/attributed/Jerusalem.jpg);background-position:bottom right, bottom right,center 33%" >
+
 
 # {{page.title}}
 

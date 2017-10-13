@@ -2,7 +2,7 @@
 title: Hotels
 layout: multisection
 ---
-<section class="inverse" markdown="1">
+<section markdown="1" class="img" style="background-image: {{site.multiply}}, url(/assets/images/attributed/intercontinental_swimming_pool.jpg);background-position:bottom right, bottom right,center top" >
 # {{page.title}}
 
 
