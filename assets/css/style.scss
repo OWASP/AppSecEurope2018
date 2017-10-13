@@ -24,6 +24,10 @@ body {
 	box-sizing: border-box;
 }
 
+em {
+	font-style: italic;
+}
+
 a {
 	text-decoration: none;
 	color: $medium;
@@ -116,6 +120,10 @@ section {
 		background-color: $medium;
 		color: #fff;
 
+		a {
+			color: $light;
+		}
+
 		button.dark {
 			background: #fff;
 			color: $medium;
@@ -148,8 +156,45 @@ ul {
 	margin: 0.5em 1.5em;
 }
 
+sup { 
+	font-size: 50%; 
+	position: relative;
+	top:-1em;
+}
 
+table {
+	border-collapse: separate;
+	border-spacing: 0.5em;
+	margin: 1em -0.5em;
 
+	td,th {
+		padding: 0em 1em;
+	}
+	th {
+		border-radius: 0.8em;
+		line-height: 1.6em;
+		background: $light;
+		color: #fff;
+		text-align: left;
+		text-transform: uppercase;
+		margin-right: 1em;
+	}
+	th:first-of-type {
+		background: $medium;
+	}
+	td {
+		padding-top: 0.5em;
+		padding-bottom: 0.5em;
+	}
+	tbody {
+		tr {
+			border-bottom: 1px solid $light;
+		}
+		tr:last-of-type {
+			border-bottom: 0px;
+		}
+	}
+}
 
 
 
