@@ -225,6 +225,10 @@ table {
 		section {
 			padding: 1em 1em;
 			
+			&.map {
+				padding: 0;
+			}
+
 			&.img {
 			padding: 2.5em 1em;
 			}
