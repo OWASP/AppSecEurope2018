@@ -11,10 +11,11 @@ recommend that you book your rooms as early as possible** 
 
 Rooms will be confirmed on a first come, first served basis.
 
-[CLICK HERE](https://knasim.herokuapp.com/owasp2018/users/new) TO BOOK YOUR ACCOMMODATION
-
 </section>
 <section markdown="1">
+
+[CLICK HERE](https://knasim.herokuapp.com/owasp2018/users/new) TO BOOK YOUR ACCOMMODATION
+
 
 ### Intercontinental David Tel Aviv Hotel (Conference Venue)
 
