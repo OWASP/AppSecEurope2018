@@ -15,6 +15,7 @@ Rooms will be confirmed on a first come, first served basis.
 <section markdown="1">
 
 "Accommodation Target Conferences" is the official travel agent for the Owasp Appsec EU Conference, and is offering special reduced rates for accommodation at the conference venue and neighboring hotels. Please see hotels to view the hotel options and to reserve your room.
+
 [CLICK HERE](https://knasim.herokuapp.com/owasp2018/users/new) TO BOOK YOUR ACCOMMODATION
 
 **The travel agent is not mandatory, and of course, you're free to directly book your own hotel.**
