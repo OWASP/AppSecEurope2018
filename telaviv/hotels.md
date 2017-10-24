@@ -18,6 +18,11 @@ Accommodation Target Conferences is the official travel agent for the Owasp Apps
 
 [CLICK HERE](https://knasim.herokuapp.com/owasp2018/users/new) TO BOOK YOUR ACCOMMODATION
 
+**The travel agent is not mandatory, and of course, you're free to directly book your own hotel.**
+
+Next to these hotels, there are a lot of [AirBnB's](https://www.airbnb.com) in the area.
+
+
 
 ### Intercontinental David Tel Aviv Hotel (Conference Venue)
 
@@ -229,11 +234,6 @@ Check-in: 15:00
 Check-out: 11:00
 
 
-## Other options
-
-**The travel agent is not mandatory, and of course, you're free to directly book your own hotel.**
-
-Next to these hotels, there are a lot of [AirBnB's](https://www.airbnb.com) in the area.
 
 </section>
 <section class="inverse" markdown="1">
