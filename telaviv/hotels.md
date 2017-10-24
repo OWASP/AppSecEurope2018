@@ -14,13 +14,9 @@ Rooms will be confirmed on a first come, first served basis.
 </section>
 <section markdown="1">
 
-"Accommodation Target Conferences" is the official travel agent for the Owasp Appsec EU Conference, and is offering special reduced rates for accommodation at the conference venue and neighboring hotels. Please see hotels to view the hotel options and to reserve your room.
+Accommodation Target Conferences is the official travel agent for the Owasp Appsec EU Conference, and is offering special reduced rates for accommodation at the conference venue and neighboring hotels. Please see hotels to view the hotel options and to reserve your room.
 
 [CLICK HERE](https://knasim.herokuapp.com/owasp2018/users/new) TO BOOK YOUR ACCOMMODATION
-
-**The travel agent is not mandatory, and of course, you're free to directly book your own hotel.**
-
-Next to these hotels, there are a lot of [AirBnB's](https://www.airbnb.com) in the area.
 
 
 ### Intercontinental David Tel Aviv Hotel (Conference Venue)
@@ -232,10 +228,21 @@ Check-out: 12:00
 Check-in: 15:00  
 Check-out: 11:00
 
-Please see below maps of the Hotel options in comparison to the Conference venue
+
+## Other options
+
+**The travel agent is not mandatory, and of course, you're free to directly book your own hotel.**
+
+Next to these hotels, there are a lot of [AirBnB's](https://www.airbnb.com) in the area.
 
 </section>
 <section class="inverse" markdown="1">
+
+## Contact
+For any questions concerning accommodations and tours, please feel free to contact:  
+Target Conferences Ltd.  
+Phone:  +972 3 5175150  
+Email address: owasp2018@target-conferences.com	
 
 ## Payment
 
