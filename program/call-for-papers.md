@@ -43,7 +43,7 @@ Please [submit your proposal to EasyChair](https://easychair.org/conferences/?co
 
 ## Terms
 
-By your submission you agree to the [OWASP Speaker Agreement](https://2018.appsec.eu/assets/docs/speaker_agreement.pdf)
+By your submission you agree to the [OWASP Speaker Agreement](https://2018.appsec.eu/docs/Speaker_Agreement.pdf)
 
 OWASP values vendor neutrality. You need to use the OWASP presentation template and you’re not allowed to place marketing pitches in your slides. All presentation slides will be published on the conference website after the conference. Please make sure that any pictures and other materials in your slides don’t violate any copyrights. You are solely liable for copyright violations. You may choose any CC license for your slides, including CC0. OWASP does suggest open licenses.
 
