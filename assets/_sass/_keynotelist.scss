@@ -1,0 +1,47 @@
+
+section.keynotes-front {
+	margin: 0px -25px;
+	text-align: center;
+
+	h1 {
+		text-align: center;
+		background: #fff;
+		font-size: 120%;
+		padding: 0.5em 1em;
+		border-radius: 1em;
+		display: inline-block;
+	}
+
+
+	ul {
+		display: flex;
+		list-style: none;
+		padding: 1em 0em;
+		justify-content: space-between;
+
+		h4 {
+			color: $light;
+		}
+
+		> li {
+			max-width: 50%;
+			width: 300px;
+			text-align: center;
+			padding-bottom: 1em;
+
+			div {
+				margin: 0 auto;
+				width: 250px;
+				height: 250px;
+				border-radius: 50%;
+				background-color: #eee;
+				background-position: center center;
+				background-size:cover;
+			}
+
+			span {
+				display: block;
+			}
+		}
+	}
+}

@@ -6,6 +6,7 @@
 @import "header";
 @import "footer";
 @import "teamlist";
+@import "keynotelist";
 @import "supporters";
 
 
@@ -56,13 +57,18 @@ h1 {
 	}
 }
 
-.front {
+section.front {
 	h2 {
 		font-size: 275%;
 	}
 	h3 {
 		font-size: 200%;
 	}	
+
+	margin-bottom: -14em;
+	&.img{
+		padding-bottom: 16em;
+	}
 }
 
 h2 {

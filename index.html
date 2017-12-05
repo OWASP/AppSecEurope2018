@@ -17,7 +17,21 @@ layout: multisection
 
 </section>
 
-<section>
+<section class="keynotes-front">
+	<h1>Keynote speakers</h1>
+	<ul>
+	{% for member in site.data.keynotespeakers %}
+		<li>
+			<div style="background-image: url(../assets/images/keynotes/{{member.image | default: 'owasp_logo.png'}});{{member.style}};" alt="{{member.name}} {{member.role}}" s></div>
+			<h4>{{member.name}}</h4>
+		</li>
+	{% endfor %}
+	</ul>
+</section>
+
+
+
+<section class="inverse">
 	<h2>Submit your talks and trainings</h2>
 
 	<p>The <a href="program/call-for-papers">calls for paper</a> and <a href="program/call-for-trainings">calls for trainings</a> are now open.</p>
