@@ -22,8 +22,8 @@ layout: multisection
 	<ul>
 	{% for member in site.data.keynotespeakers %}
 		<li>
-			<div style="background-image: url(../assets/images/keynotes/{{member.image | default: 'owasp_logo.png'}});{{member.style}};" alt="{{member.name}} {{member.role}}" s></div>
-			<h4>{{member.name}}</h4>
+			<div style="background-image: url(../assets/images/keynotes/{{member.image | default: 'owasp_logo.png'}});{{member.style}};" alt="{{member.name}} {{member.role}}"></div>
+			<h4><a href="program/keynotes">{{member.name}}</a></h4>
 		</li>
 	{% endfor %}
 	</ul>

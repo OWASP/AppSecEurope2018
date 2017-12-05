@@ -45,3 +45,24 @@ section.keynotes-front {
 		}
 	}
 }
+
+div.keynote-full {
+	ul {
+		list-style: none;
+	}
+	li {
+		padding-left: 210px;
+	}
+
+	img {
+		width: 200px; 
+		height: 200px; 
+		border-radius: 50%;
+		float: left;
+		background-size: cover;
+		margin-left: -220px;
+	}
+
+}
+
+
