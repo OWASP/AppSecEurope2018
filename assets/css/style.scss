@@ -227,6 +227,14 @@ table {
 	body {
 		font-size: 90%;
 	}
+
+	section.front {
+		margin-bottom: 0em;
+		&.img{
+			padding-bottom: 4em;
+		}
+	}
+
 	.main {
 		section {
 			padding: 1em 1em;
