@@ -2,46 +2,9 @@
 layout: multisection
 ---
 
-<section class="img front" style="background-image: {{site.multiply}}, url(assets/images/beach.png)">
-	<div>
-		<h1 style="margin-top:1em;">Hold the date</h1>
-		<h2>OWASP AppSec Europe in Tel Aviv, Israel</h2>
-		<h3>17<sub>th</sub> - 21<sub>st</sub> of June, 2018</h3>
-	</div>
-	<p>OWASP AppSec conferences are the
-	premier gathering for software security
-	leaders and researchers. It brings together
-	the application security community to
-	share cutting-edge ideas, initiatives and
-	technological advancements.</p>
-
-</section>
-
-<section class="keynotes-front">
-	<h1>Keynote speakers</h1>
-	<ul>
-	{% for member in site.data.keynotespeakers %}
-		<li>
-			<div style="background-image: url(../assets/images/keynotes/{{member.image | default: 'owasp_logo.png'}});{{member.style}};" alt="{{member.name}} {{member.role}}"></div>
-			<h4><a href="program/keynotes">{{member.name}}</a></h4>
-		</li>
-	{% endfor %}
-	</ul>
-</section>
-
-
-
-<section class="inverse">
-	<h2>Submit your talks and trainings</h2>
-
-	<p>The <a href="program/call-for-papers">calls for paper</a> and <a href="program/call-for-trainings">calls for trainings</a> are now open.</p>
-
-	<ul>
-		<li><strong>Submission deadline:</strong> January 5th, 2018</li>
-		<li><strong>Notification of acceptance:</strong> February 23rd, 2018</li>
-	</ul>
-
-
-</section>
-
+<div style="text-align: center">
+<h1>OWASP AppSec Europe is relocating</h1>
+<h2>Stay tuned for a new location</h2>
+<img src="assets/images/owasp_logo.png" style="width: 20em">
+</div>
 
