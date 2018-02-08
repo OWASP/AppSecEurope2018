@@ -3,7 +3,7 @@ title: Call for Papers
 ---
 ## {{page.title}}
 
-The OWASP AppSec conference in Europe is an established and premier venue for web applications leaders, software engineers, researchers and visionaries from all over the world. OWASP AppSec Europe gathers the application security community for a 5-days event to share and discuss novel ideas, initiatives and advancements. The 2018 conference will take place in Tel-Aviv from June 17th to 21st 2018, with papers/talks presented on 20th and 21st June.
+The OWASP AppSec conference in Europe is an established and premier venue for web applications leaders, software engineers, researchers and visionaries from all over the world. OWASP AppSec Europe gathers the application security community for a 5-days event to share and discuss novel ideas, initiatives and advancements. The 2018 conference will take place in London from June 3rd to 6th 2018, with papers/talks presented on 5th and 6th of June.
 
 ## Topics
 For our event, we are looking for “the next”, cutting edge research in the context of web applications, secure development, security management and privacy. Our goal is to give both academic researchers and industry practitioners the possibility to share their latest findings with the rest of the community, including coverage via our media channels. It won’t be a knockout criteria if your talk has been presented before but we would appreciate if you would let us know.
@@ -27,7 +27,7 @@ Topics of interest include, but are not limited to the following:
 To ensure the best talks available are presented at AppSec Europe we are incorporating blind reading as part of our process. This means that names and job titles will be removed when the paper abstract is being reviewed. All speakers will be given access to speaker mentorship, we especially encourage first time speakers to take advantage of this service.
 
 ## Program committee
-Your submission is subject to approval by a team of the program committee, chaired by Irene Abezgauz.
+Your submission is subject to approval by a team of the program committee.
 
 ## Submission
 
@@ -37,9 +37,9 @@ Please [submit your proposal to EasyChair](https://easychair.org/conferences/?co
 
 
 ## Important dates
-* **Submission deadline:** January 5th, 2018
-* **Notification of acceptance:** February 23rd, 2018
-* **Conference days:** June 17th – 21st 2018
+* **Submission deadline:** TBA
+* **Notification of acceptance:** TBA
+* **Conference days:** June 3rd – 6th 2018
 
 ## Terms
 

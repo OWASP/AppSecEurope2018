@@ -5,7 +5,7 @@ title: Call for Trainings
 ## {{page.title}}
 
 
-OWASP is soliciting training providers for the AppSecEU conference which will be held in Tel-Aviv 17th - 21st of June 2018.
+OWASP is soliciting training providers for the AppSecEU conference which will be held in London 3rd - 6th of June 2018.
 
 ## Topics
 
@@ -29,7 +29,7 @@ Training should be of a practical nature, i.e. we will look favorably on a hands
 
 ## Program Committee
 
-Your submission is subject to approval by a small core team of the program committee, chaired by Hemed Gur-Ary. 
+Your submission is subject to approval by a small core team of the program committee.
 
 ## Submission
 
@@ -39,9 +39,9 @@ Please [submit your proposal to EasyChair](https://easychair.org/conferences/?co
 
 ## Important dates
 
-* **Deadline for proposals:** January 5th, 2018
-* **Notification to training providers:** February 23rd, 2017
-* **Training:** June 17th - 19th
+* **Deadline for proposals:** TBA
+* **Notification to training providers:** TBA
+* **Training:** June 3rd - 4th
 
 ## Split of Revenue
 

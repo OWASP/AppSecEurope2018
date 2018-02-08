@@ -1,0 +1,33 @@
+section.img.front {
+	padding: 0;
+	background: url(../images/london/001.png) center 80% no-repeat;
+	background-size: cover;
+	color: #fff;	
+	> div {
+		padding: 2em;
+		height: 400px;
+		background: rgba(0,0,0,0.5);
+	}
+}
+section.img.front div {
+}
+section.img.front {
+	h1,h2 { 
+		color: #fff;
+		font-size: 200%;
+	}
+}
+
+section.inverse {
+	background: $cyan;
+	color: #fff;
+	h1 {
+		color: #fff;
+	}
+	a {
+		color: #fff;
+	}
+}
+section {
+	min-height: 150px;
+}

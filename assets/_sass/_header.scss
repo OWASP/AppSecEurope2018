@@ -7,18 +7,17 @@ header {
 			top: 0; left: 1em;
 			width: 20em;
 			height: 10em;
-			background: url(../images/logo.svg) 120% 45% no-repeat;
-			background-size: auto 150%;
+			background: url(../images/logo.svg) left top no-repeat;
+			background-size: auto 100%;
 		}
 	}
 
 	nav {
-		background: rgba(4,11,13,0.5);
+		background: $darkblue;
 		display: flex;
 		justify-content: right;
 		padding: 0.75em;
 		height: 2.5em;
-		margin-bottom: -2.5em;
 		position: relative;
 		z-index: 5;
 		font-size: 87.5%;
@@ -35,8 +34,9 @@ header {
 			height: 1.6em;
 			&:hover{
 				background: #fff;
-				color: $medium;
 				text-decoration: none;
+				color: $blue;
+
 			}
 			&:active {
 				background: $light;
@@ -114,7 +114,6 @@ header {
 			padding: 0;
 			height: auto;
 			margin: 0;
-			background: $dark;
 			padding: 0.5em 0em;
 
 			.burger {

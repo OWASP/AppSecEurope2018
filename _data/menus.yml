@@ -4,20 +4,10 @@
     url  : program/call-for-papers
   - title: Call for trainings
     url  : program/call-for-trainings
-- title: Tel Aviv
+- title: London
   items:
-  - title: The City
-    url  : telaviv/
   - title: The Venue
-    url  : telaviv/venue
-  - title: Hotels
-    url  : telaviv/hotels
-  - title: Travel
-    url  : telaviv/travel
-  - title: Things to do
-    url  : telaviv/things-to-do
-  - title: Tours of Israel
-    url  : telaviv/tours
+    url  : london/venue
 - title: About
   items:
   - title: OWASP

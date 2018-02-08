@@ -1,32 +1,4 @@
 conferenceteam:
-  - name: Avi Douglen
-    role: Committee Chair
-    title: 
-    image: avi_douglen.png
-  - name: Dr. Yossi Oren
-    role: Committee Co-Chair
-    title: 
-    image: dr_yossi_oren.jpg
-  - name: Ofer Maor
-    role: Sponsor Relations
-    title: 
-    image: ofer_maor.jpg
-  - name: Or Katz
-    role: 
-    title: 
-    image: or_katz.jpg
-  - name: Irene Abezgauz
-    role: Content Chair
-    title: 
-    image: irene_abezgauz.png
-  - name: Ethan Schorer
-    role: Content Co-Chair
-    title: 
-    image: ethan_schorer.jpg
-  - name: Hemed Gur Ary
-    role: Training Chair
-    title: 
-    image: hemed_gur_ary.jpg
 staff: 
   - name: Claudia Aviles-Casanovas
     role: Project Coordinator

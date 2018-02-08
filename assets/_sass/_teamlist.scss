@@ -1,6 +1,5 @@
 
 section.team-list {
-	margin: 0px -25px;
 
 	ul {
 		display: flex;
@@ -10,7 +9,7 @@ section.team-list {
 		justify-content: space-between;
 
 		h4 {
-			color: $light;
+			color: $darkblue;
 		}
 
 		&:after {
@@ -23,6 +22,7 @@ section.team-list {
 			width: 200px;
 			text-align: center;
 			padding-bottom: 1em;
+			list-style-type: none;
 
 			div {
 				margin: 0 auto;
