@@ -3,7 +3,7 @@ title: Call for Papers
 ---
 ## {{page.title}}
 
-The OWASP AppSec conference in Europe is an established and premier venue for web applications leaders, software engineers, researchers and visionaries from all over the world. OWASP AppSec Europe gathers the application security community for a 5-days event to share and discuss novel ideas, initiatives and advancements. The 2018 conference will take place in London from June 3rd to 6th 2018, with papers/talks presented on 5th and 6th of June.
+The OWASP AppSec conference in Europe is an established and premier venue for web applications leaders, software engineers, researchers and visionaries from all over the world. OWASP AppSec Europe gathers the application security community for a 5-days event to share and discuss novel ideas, initiatives and advancements. The 2018 conference will take place in London from July 3rd to 6th 2018, with papers/talks presented on 5th and 6th of July.
 
 ## Topics
 For our event, we are looking for “the next”, cutting edge research in the context of web applications, secure development, security management and privacy. Our goal is to give both academic researchers and industry practitioners the possibility to share their latest findings with the rest of the community, including coverage via our media channels. It won’t be a knockout criteria if your talk has been presented before but we would appreciate if you would let us know.
@@ -39,7 +39,7 @@ Please [submit your proposal to EasyChair](https://easychair.org/conferences/?co
 ## Important dates
 * **Submission deadline:** TBA
 * **Notification of acceptance:** TBA
-* **Conference days:** June 3rd – 6th 2018
+* **Conference days:** July 3rd – 6th 2018
 
 ## Terms
 
