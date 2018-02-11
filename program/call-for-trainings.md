@@ -39,7 +39,7 @@ Please [submit your proposal to EasyChair](https://easychair.org/conferences/?co
 
 ## Important dates
 
-* **Deadline for proposals:** TBA
+* **Deadline for proposals:** 28th of February 2018
 * **Notification to training providers:** TBA
 * **Training:** July 3rd - 4th
 

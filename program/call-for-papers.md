@@ -37,7 +37,7 @@ Please [submit your proposal to EasyChair](https://easychair.org/conferences/?co
 
 
 ## Important dates
-* **Submission deadline:** TBA
+* **Submission deadline:** 28th of February 2018
 * **Notification of acceptance:** TBA
 * **Conference days:** July 3rd – 6th 2018
 

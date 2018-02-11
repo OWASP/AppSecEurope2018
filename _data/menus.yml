@@ -8,6 +8,10 @@
   items:
   - title: The Venue
     url  : london/venue
+  - title: Hotel
+    url  : london/hotel
+  - title: Travel
+    url  : london/how-to-get-there
 - title: About
   items:
   - title: OWASP

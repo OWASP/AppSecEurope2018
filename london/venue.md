@@ -14,19 +14,7 @@ The OWASP AppSec Europe 2018 will be hosted at the The Queen Elizabeth Center (Q
 
 </section>
 
-<section markdown="1">
-## Hotel
 
-To see hotels near the venue please visit: [https://hotelmap.com/pro/MTMT3](https://hotelmap.com/pro/MTMT3)	
-
-</section>
-
-<section markdown="1">
-## How to get there + things to do while in London
-
-To see hotels near the venue please visit: [http://www.visitondon.com/](http://www.visitondon.com/)	
-
-</section>
 
 
 

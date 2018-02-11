@@ -50,6 +50,9 @@ body {
 em {
 	font-style: italic;
 }
+strong {
+	font-weight: bold;
+}
 
 a {
 	text-decoration: none;
@@ -83,6 +86,9 @@ p {
 	margin-bottom: 1em;
 }
 
+div.main {
+	min-height: 400px;
+}
 
 section {
 	padding: 2em;
