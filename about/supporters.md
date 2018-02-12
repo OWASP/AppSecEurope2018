@@ -6,14 +6,14 @@ layout: multisection
 
 <h1>{{page.title}}</h1>
 
-OWASP AppSec Europe would like to thank the following supporters for helping to spread the word about our European conference 17<sub>th</sub> - 21<sub>th</sub> of June, 2018.
+OWASP AppSec Europe would like to thank the following supporters for helping to spread the word about our European conference 3<sub>rd</sub> - 6<sub>th</sub> of July, 2018.
  
 <a href="contact">Let us know</a> if you would like to become a supporter of AppSec Europe. There are no finances required to be a supporter, essentially the arrangement is:
 <ul>
 <li>Supporters commit to sending (at least 3) communications (e-mail/twitter/linkedin/etc) to their groups regarding the AppSec conference.</li>
 <li>Copy us in the first communication, provide us with your logo and URL and we will add that to the supporters page on the conference website.</li>
 </ul>
-Please note that supporters are not sponsors of the AppSec EU conference, for further information please see the bottom of this page.
+Please note that supporters are not sponsors of the AppSec Europe conference, for further information please see the bottom of this page.
 
 </section>
 <section class="supporters">
