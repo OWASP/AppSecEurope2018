@@ -1,26 +1,33 @@
 header {
 	position: relative;
+	height: 9em;
 	.top {
-		height: 10em;
 		.logo {
 			position: absolute;
-			top: 0; left: 1em;
-			width: 20em;
-			height: 10em;
-			background: url(../images/logo.svg) left top no-repeat;
+			top: 0em; 
+			left: 5%;
+			padding-left: 10%;
+			background: url(../images/logo.svg);
+			background-repeat: no-repeat;
+			background-position: left center;
 			background-size: auto 100%;
+			text-decoration: none;
+			line-height: 9em;
+			width: 35%;
+    	height: 9em;
 		}
 	}
 
 	nav {
-		background: $darkblue;
+
 		display: flex;
 		justify-content: right;
 		padding: 0.75em;
-		height: 2.5em;
-		position: relative;
+		font-weight: bolder;
 		z-index: 5;
-		font-size: 87.5%;
+		font-size: 0.8em;
+		padding-top: 4.8em;
+		margin-right: 5%;
 
 		.burger {
 			display: none;
@@ -29,20 +36,23 @@ header {
 		a {
 			color: #fff;
 			text-transform: uppercase;
+			text-decoration: none;
 			padding: 0em 1em;
 			border-radius: 0.8em;
 			height: 1.6em;
+			font-weight: bolder;
+			display: inline-block;
+
 			&:hover{
-				background: #fff;
 				text-decoration: none;
-				color: $blue;
-
 			}
-			&:active {
-				background: $light;
 
+			&:active {
+				color: $cyan;
 			}
 		}
+
+
 		> ul {
 			display: flex;
 			flex-wrap: wrap;
@@ -53,37 +63,54 @@ header {
 			width: 100%;
 
 			> li {
-				min-width: 8em;
 				position: relative;
 				flex: 0 1 auto;
 				margin: 0;
 				padding: 0em 1em 2em 0em;
 				transition: all linear 0.1s;
 
-				&.dropdown > a:after {
-					content: "\25be";
-					margin-left: 0.25em;
+
+
+				&.dropdown:hover::after {
+						content: '';
+						position: absolute;
+						top: 0;
+						left: 50%;
+						width: 0;
+						height: 0;
+						border: 10px solid transparent;
+						border-bottom-color: $cyan;
+						border-top: 0;
+						margin-left: -0.75em;
+						margin-top: 1.5em;
+				}
+
+				&.emp a {
+					background: #fff;
+					text-decoration: none;
+					color: $cyan;
 				}
 
 				> ul {
+				  font-size: 0.7em;
 					display: none;
 					position: absolute;
+					left: -100%;
 					z-index: 2;
 					list-style: none;
-					xwidth: 12em;
 					white-space: nowrap;
-					margin: 0;
-					padding: 0;
-					background: rgba(4,11,13,0.5);
-					box-shadow: 0px 5px 2px rgba(0,0,0,0.5);
-					left: 0em;
-					top: 1.6em;
-					padding: 0.4em;
-					line-height: 1.5em;
+					background: $cyan;
+					margin-top: 1.5em;
 
-					a { text-transform: none; }
+					li {
+						margin: 0;
+						display: inline-block;
+						padding: 1em 1em;
+					}
 				}
+
 				&:last-child {
+					padding-right: 0em;
 					ul {
 						left: auto;
 						right: -0.5em;
@@ -91,9 +118,14 @@ header {
 				}
 
 			}
-
-			> li:hover > ul {
-				display: block;
+			> li:hover {
+				> a {
+				  color: $cyan;
+				  text-decoration: none;
+				}
+				> ul {
+					display: block;
+				}
 			}
 		}
 	}
@@ -102,11 +134,14 @@ header {
 
 @media (max-width: 500px) {
 	header {
+		height: 5em;
 		.top {
 			height: 5em;
 			.logo {
-				width: 10em;
-				height: 5em;				
+				width: 100%;
+				height: 5em;
+				background-size: auto 90%;
+				background-position: center center;				
 			}
 		}
 		nav {
@@ -115,42 +150,70 @@ header {
 			height: auto;
 			margin: 0;
 			padding: 0.5em 0em;
+			&:hover {
+				background: $cyan;
+				> ul {
+					background: $cyan;
+				}
+			}
 
 			.burger {
 				display: block;
 				padding: 0.3em 0.5em;
 				margin-left: 0em;
+				z-index: 20;
+				right: 1em;
 			}
 
 			> ul {
 				display: none;
+				position: relative;
+				left: -0.5em;
+				z-index: 20;
 			}
 
 			&:hover > ul, .burger:hover + ul {
 				display: block;	
 			}
-
 			> ul {
 				> li {
 					width: 100%;
 					flex: none;
 					padding: 0.3em 0.5em;
-
+					&.dropdown:hover::after {
+						display: none
+					}
 					> ul {
 						position: relative;
 						z-index: 0;
 						width: 100%;
 						margin: 0 0 0 1em;
-						padding: 0.3em 0.5em;
+						padding: 0.3em 0.3em;
 						background: transparent;
 						box-shadow: none;
 						left: auto;
 						top: auto;
+						font-size: 1em;
+						line-height: 1em;
+						> li {
+							padding: 0.2em 0em;
+							&:last-child {
+								padding-bottom: 0em;
+							}
+						}
 					}
 				}
 
-				> li:hover > ul {
-					display: block;
+				> li:hover {
+					a:hover, a:active { color: #fff; text-decoration: underline }
+
+					> ul {
+						display: block;
+						li {
+							display: block;
+							a:hover, a:active { color: #fff; }
+						}
+					}
 				}
 			}
 		}

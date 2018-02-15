@@ -9,6 +9,8 @@
 @import "supporters";
 @import "sections";
 
+
+
 @font-face {
     font-family: 'Aller-Italic';
     src:url('../fonts/Aller-Italic.ttf.woff') format('woff'),
@@ -31,9 +33,6 @@
 
 
 
-
-
-
 html, body {
 	padding: 0;
 	margin: 0;
@@ -41,6 +40,8 @@ html, body {
 
 body {
 	font-family: 'Aller', sans-serif;
+	font-size: 16px;
+	background: $purple;
 }
 
 * {
@@ -62,20 +63,34 @@ a:hover {
 	text-decoration: underline;
 }
 
+h1,h2,h3 {
+	line-height: 1.5em;
+}
+
+sup {
+	font-size: 50%;
+	position: relative;
+	top: -0.5em;
+}
+sub {
+	font-size: 50%;
+	postion: relative;
+	top: -0.5em;
+}
+
+
+
 h1 {
-	font-weight: bold;
-	color: $darkblue;
-	font-size: 200%;
-	margin-bottom: 0.5em;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 3.25em;
+	color: $cyan;
 }
 h2 {
-	font-weight: bold;
-	font-size: 150%;
-	margin-bottom: 0.5em;
+	font-size: 2em;
 }
 h3 {
-	font-weight: bold;
-	font-size: 130%;
+	font-size: 1.5em;
+
 }
 
 ul li {
@@ -88,21 +103,33 @@ p {
 
 div.main {
 	min-height: 400px;
+	background: #fff;
+}
+.grayscale {
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  filter: grayscale(100%);
+  filter: url(/assets/images/grayscale.svg#greyscale); /* Firefox 4+ */
+  filter: gray; /* IE 6-9 */
 }
 
-section {
-	padding: 2em;
-	line-height: 1.5em;
-
+.shadow {
+	box-shadow: inset 0px 120px 100px -100px rgba(0,0,0,0.5);
 }
 
-section ul {
-	padding: 1em 1.5em;
-}
-section li {
-	list-style-type: disc;
+
+@media (max-width: 500px) {
+	h1 {
+		font-size: 2em;
+	}
+	h2 {
+		font-size: 1.5em;
+	}
+	h3 {
+		font-size: 1.25em;
+
+	}
 }
 
-section.inverse {
-	
-}

@@ -1,9 +1,10 @@
 ---
 title: Venue
 layout: multisection
+image: london/qeii.jpg
 ---
 
-<section style="background: url(/assets/images/london/qeii.jpg) center center; height: 400px; background-size: cover;">
+<section class="image" style="background: url(/assets/images/simpleback.svg),url(/assets/images/london/qeii.jpg) center center; height: 400px;">
 
 </section>
 
