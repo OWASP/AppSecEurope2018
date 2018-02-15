@@ -1,0 +1,15 @@
+- type: Diamond
+  sponsors:
+  - logo: netsparker.png
+    name: netsparker
+    url: https://www.netsparker.com/ 
+- type: Lanyard
+  sponsors:
+  - logo: netsparker.png
+    name: netsparker
+    url: https://www.netsparker.com/ 
+- type: Capture the Flag
+  sponsors:
+  - logo: netsparker.png
+    name: netsparker
+    url: https://www.netsparker.com/ 

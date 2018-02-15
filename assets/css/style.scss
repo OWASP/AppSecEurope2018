@@ -119,6 +119,40 @@ div.main {
 	box-shadow: inset 0px 120px 100px -100px rgba(0,0,0,0.5);
 }
 
+.sponsors {
+	h3 {
+		text-align: center;
+	}
+	div {
+		display: flex;
+		flex-wrap: wrap;
+		list-style: none;
+		margin: 0;
+		justify-content: space-around;
+		a {
+			height: 80px;
+			margin: 35px 10px;
+			width: 180px;
+			background-size: contain;
+			background-repeat: no-repeat;
+			background-position: center center;
+		}
+		&.Diamond a {
+			width: 270px;
+		}
+		&.Platinum a {
+			width: 220px;
+		}
+		&.Gold a {
+			width: 200px;
+		}
+	}
+}
+
+
+
+
+
 
 @media (max-width: 500px) {
 	h1 {
