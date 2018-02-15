@@ -13,7 +13,7 @@ AppSec Europe will take place in London, United Kingdom, a dynamic and engaging 
 
 ### Plane
 
-You can reach London by plane, from most major airports around Europe and the world.  London boasts three major airports that serve city and are on average within 1.5 hours drive to the city center. 
+You can reach London by plane, from most major airports around Europe and the world.  London boasts three major airports that serve city and are on average within 1.5 hours drive to the city centre.
 
 * [London Heathrow](https://www.heathrow.com/)
 * [London City Airport](https://www.londoncityairport.com/)
@@ -27,7 +27,7 @@ From central Europe attendees can also utilize the EuroStar train system to reac
 </section>
 
 <section class="inverse" markdown="1">
-## Travelling to the QEII Conference Center
+## Travelling to the QEII Conference Centre
 
 ### London Tube System
 
@@ -39,6 +39,6 @@ London offers visitors a extensive taxi service.  All taxis accept credit card. 
 
 ### Walking
 
-If your hotel is close by, it is also very safe to walk during the day to the QEII center which is nicely located in the financial district of London.
+If your hotel is close by, it is also very safe to walk during the day to the QEII centre which is nicely located in the financial district of London.
 
 </section>
