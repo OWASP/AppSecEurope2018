@@ -39,7 +39,7 @@ header {
 			text-decoration: none;
 			padding: 0em 1em;
 			border-radius: 0.8em;
-			height: 1.6em;
+			height: 1em;
 			font-weight: bolder;
 			display: inline-block;
 
@@ -100,7 +100,7 @@ header {
 					list-style: none;
 					white-space: nowrap;
 					background: $cyan;
-					margin-top: 1.5em;
+					margin-top: 1.6em;
 
 					li {
 						margin: 0;
@@ -141,7 +141,8 @@ header {
 				width: 100%;
 				height: 5em;
 				background-size: auto 90%;
-				background-position: center center;				
+				background-position: center center;
+				left: 0em;
 			}
 		}
 		nav {
