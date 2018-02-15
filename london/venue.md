@@ -10,6 +10,6 @@ layout: multisection
 <section markdown="1">
 ## {{page.title}}
 
-The OWASP AppSec Europe 2018 will be hosted at the <a href="https://qeiicentre.london">The Queen Elizabeth II Centre (QEII)</a>, London, England.
+The OWASP AppSec Europe 2018 will be hosted at <a href="https://qeiicentre.london">the Queen Elizabeth II Centre (QEII)</a>, London, England.
 
 </section>
