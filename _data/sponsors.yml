@@ -2,14 +2,19 @@
   sponsors:
   - logo: netsparker.png
     name: netsparker
-    url: https://www.netsparker.com/ 
+    url: https://www.netsparker.com/
+- type: Gold
+  sponsors:
+  - logo: checkmarx.png
+    name: checkmarx
+    url: https://www.checkmarx.com/     
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
     name: netsparker
-    url: https://www.netsparker.com/ 
+    url: https://www.netsparker.com/
 - type: Capture the Flag
   sponsors:
   - logo: netsparker.png
     name: netsparker
-    url: https://www.netsparker.com/ 
+    url: https://www.netsparker.com/
