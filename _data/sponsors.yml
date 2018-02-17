@@ -5,9 +5,9 @@
     url: https://www.netsparker.com/
 - type: Gold
   sponsors:
-  - logo: checkmarx.png
+  - logo: Checkmarx.png
     name: checkmarx
-    url: https://www.checkmarx.com/     
+    url: https://www.checkmarx.com/
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
