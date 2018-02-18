@@ -95,6 +95,18 @@ h3 {
 
 ul li {
 	margin-bottom: 0.5em;
+	ul {
+		padding-top: 0.5em;
+		margin-top: 0em;
+		li {
+			margin-bottom: 0em;
+		}
+	}
+}
+ul.centerlist {
+	display: table;
+	margin: 0 auto;
+	text-align: left;
 }
 
 p {

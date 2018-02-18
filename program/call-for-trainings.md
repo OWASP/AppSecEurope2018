@@ -5,7 +5,7 @@ title: Call for Trainings
 ## {{page.title}}
 
 
-OWASP is soliciting training providers for the AppSecEU conference which will be held in London 3rd - 6th of July 2018.
+OWASP is soliciting training providers for the AppSecEU conference which will be held in London 2nd - 6th of July 2018.
 
 ## Topics
 
@@ -41,7 +41,7 @@ Please [submit your proposal to EasyChair](https://easychair.org/conferences/?co
 
 * **Deadline for proposals:** 28th of February 2018
 * **Notification to training providers:** TBA
-* **Training:** July 3rd - 4th
+* **Training:** July 2nd - 4th
 
 ## Split of Revenue
 
