@@ -1,0 +1,37 @@
+.keynote-full {
+	ul {
+		margin: 0;
+		padding: 0;
+		display: flex;
+		li {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+			width: 33%;
+			div {
+				width: 100%;
+				background-size: cover;
+				&::after {
+				  content: "";
+				  display: block;
+				  padding-bottom: 100%;
+				}
+			}
+			h4 {
+				margin: 0.5em 0em;
+			}
+		}
+	}	
+}
+
+@media (max-width: 500px) {
+ .keynote-full {
+	ul {
+		display: block;
+		li {
+			display: block;
+			width: 100%;
+		}
+	}
+ }
+}
