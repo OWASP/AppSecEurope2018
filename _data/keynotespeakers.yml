@@ -6,10 +6,11 @@
     
     Laura is the founder of SafeStack, a specialist security training, development, and consultancy firm. She lives in Auckland, New Zealand with her daughter.
   style: 
-- image: 
-  name: 
-  company:
-  description:
+- image: mario.png 
+  name: Mario Heiderich
+  company: Cure53
+  description: |
+    Dr.-Ing. Mario Heiderich, handsome heart-breaker, bon-vivant and (as he loves to call himself) "security researcher" is from Berlin, likes everything between lesser- and greater-than, leads the small yet exquisite pen-test company called Cure53 and pesters peaceful attendees on various 5th tier conferences with his hastily assembled powerpoint-slides. Mario loves pretty much everything about London - the amazing weather, the great food, the fresh air, long walks at the beach... he literally cannot wait to be here again.
 - image: 
   name: 
   company:
