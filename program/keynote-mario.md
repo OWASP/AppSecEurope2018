@@ -12,7 +12,7 @@ This talk will be an hour-long rant (yes, swearwords, leave your kids at home), 
 We will not only look at our own failures but also see how the entire infrastructure and monetization of the web contributed to us being simply not capable or even just willing to fix XSS. And we might as well see if any of those behavioral and structural patterns can be compared to other human failures - and see if there is something we all can learn. Or, at least, agree that we knew it all along and are all on the same page.
 
 <aside class="keynote">
-	<div class="image" style="background-image: url(/assets/images/keynotes/{{site.data.keynotespeakers[1].image}});{{member.style}};"></div>
+	<div class="image" style="background-image: url(/assets/images/keynotes/{{site.data.keynotespeakers[1].image}});{{member.style}}; background-position: center top;"></div>
 	<div>
 		<h3>{{site.data.keynotespeakers[1].name}} | {{site.data.keynotespeakers[1].company}}</h3>
 		{{site.data.keynotespeakers[1].description}}
