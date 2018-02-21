@@ -3,9 +3,6 @@ staff:
   - name: Claudia Aviles-Casanovas
     role: Project Coordinator
     image: 
-  - name: Matt Tesauro
-    role: IT
-    image: Matt-Tesauro-150x150.png
   - name: Laura Grau
     role: Event Manager
     image: Laura-Grau-150x150.png
@@ -18,3 +15,6 @@ staff:
   - name: Tiffany Long
     role: Community Manager
     image:
+  - name: Dawn Aitken
+    role: Program Assistant
+    image: 
