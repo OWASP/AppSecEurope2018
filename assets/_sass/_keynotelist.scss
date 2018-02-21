@@ -28,6 +28,25 @@
 		}
 	}	
 }
+aside.keynote {
+	padding-top: 1em;
+	display: flex;
+	line-height: 1.5em;
+
+	div.image {
+		filter: grayscale(1);
+		background-size: cover;
+		&::after {
+		  content: "";
+		  display: block;
+		  padding-bottom: 100%;
+		}	
+	}
+	div {
+		width: 50%;
+		padding-left: 1em;
+	}
+}
 
 @media (max-width: 500px) {
  .keynote-full {
@@ -42,5 +61,15 @@
 			}
 		}
 	}
+ }
+ aside.keynote {
+ 	display: block;
+ 	div {
+ 		width: 100%;
+ 		padding-left: 0em;
+ 		h3 {
+ 			margin: 0.5em 0em;
+ 		}
+ 	}
  }
 }

@@ -13,6 +13,7 @@ title: Keynote speakers
 			<p>
 				{{member.description}}
 			</p>
+			{% if member.uri %}<p><a href="{{member.uri}}">{{member.title}}</a></p>{% endif %}
 		</li>
 		{% endif %}
 	{% endfor %}
