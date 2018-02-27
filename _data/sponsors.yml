@@ -6,8 +6,13 @@
 - type: Gold
   sponsors:
   - logo: Checkmarx.png
-    name: checkmarx
+    name: Checkmarx
     url: https://www.checkmarx.com/
+- type: Silver
+  sponsors:
+  - logo: Twistlock_Logo.png
+    name: Twistlock
+    url: https://www.twistlock.com/
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
