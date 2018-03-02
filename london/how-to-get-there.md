@@ -22,10 +22,10 @@ You can reach London by plane, from most major airports around Europe and the wo
 * [Gatwick Airport](https://www.gatwickairport.com/)
 * [Southend Airport](https://southendairport.com/)
 
-* [Stansted Airport](http://www.stanstedairport.com)
+* [Stansted Airport](http://www.stanstedairport.com): <br>
 Attendees can fly into London Stansted Airport (STN) which is located to the north-east of London.  Many low-cost airlines offer cheap flights between Stansted, Europe, and the Mediterranean.  Travelers can use the Stansted Express as the quickest way into central London with trains to London Liverpool Street taking 47 minutes.
 
-* [Luton Airport](https://www.london-luton.co.uk/)
+* [Luton Airport](https://www.london-luton.co.uk/):<br>
 London Luton Airport (LTN) is located to the north-west of central London. Many low-cost airlines offering cheap flights are based at Luton Airport. Luton Airport Parkway train station is 10 minutes from the airport by shuttle bus.Trains from Luton to central London take between 20 and 40 minutes.
 
 ### Train
