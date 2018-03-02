@@ -7,8 +7,8 @@ layout: multisection
 <h1>{{page.title}}</h1>
 
 OWASP AppSec Europe would like to thank the following supporters for helping to spread the word about our European conference 3<sub>rd</sub> - 6<sub>th</sub> of July, 2018.
- 
-<a href="contact">Let us know</a> if you would like to become a supporter of AppSec Europe. There are no finances required to be a supporter, essentially the arrangement is:
+
+<a href="contact">Let us know</a> if you would like to become a supporter of AppSec Europe. Community Supporters only need to do the following:
 <ul>
 <li>Supporters commit to sending (at least 3) communications (e-mail/twitter/linkedin/etc) to their groups regarding the AppSec conference.</li>
 <li>Copy us in the first communication, provide us with your logo and URL and we will add that to the supporters page on the conference website.</li>
@@ -22,12 +22,12 @@ Please note that supporters are not sponsors of the AppSec Europe conference, fo
 {% endfor %}
 </section>
 <section>
- 
- 
+
+
 <h3>Further information on AppSec EU supporters</h3>
 
 <ul>
-<li>Supporters can be from any industry, or any business type.  Supporters can be start-ups, enterprises, marketers, websites, journalists, etc.  There is no minimum size to the supporters distribution lists or followers.</li>
+<li>Supporters can be from any community non-profit organization or industry publications, websites etc. There is no minimum size to the supporters distribution lists or followers.</li>
 <li>Supporter logos will be displayed on the supporters page of the AppSec EU conference website, and will remain part of the website after the conference has ended.</li>
 <li>Supporters will be organizations, and not individuals.</li>
 <li>Supporters will provide logos and links relevant to their organization, and can be to any particular marketing material.</li>
