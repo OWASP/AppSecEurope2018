@@ -13,6 +13,9 @@
   - logo: Twistlock_Logo.png
     name: Twistlock
     url: https://www.twistlock.com/
+  - logo: contrast.svg
+    name: Contrast Security
+    url: https://www.contrastsecurity.com
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
