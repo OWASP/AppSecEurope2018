@@ -21,3 +21,21 @@
     background-position: center center;
   description: |
     Ross Anderson is Professor of Security Engineering at Cambridge University. He was one of the founders of the discipline of security economics, and leads the Cambridge Cybercrime Centre, which collects and analyses data about online wickedness. He was one of the designers of the international standards for prepayment electricity metering and powerline communications; he was one of the inventors of the AES finalist encryption algorithm Serpent; he was also a pioneer of peer-to-peer systems, hardware tamper-resistance and API security. He is a Fellow of the Royal Society, the Royal Academy of Engineering, and the Institute of Physics, and a winner of the Lovelace Medal – the UK's top award in computing. He is best known as the author of the textbook "Security Engineering – A Guide to Building Dependable Distributed Systems".
+- image      : georgia_smaller.jpg
+  name       : Georgia Weidman
+  company    : Bulb Security LLC
+  title      : |
+    The Perimeter Has Been Shattered: Attacking and Defending Mobility and IoT on the Enterprise Network
+  uri        : /program/keynote-weidman
+  style      : |
+    background-position: left center; 
+  description: |
+    Shevirah founder and CTO Georgia Weidman is a serial entrepreneur, penetration tester, security researcher, speaker, trainer, and author. She holds a MS in computer science as well as holding CISSP, CEH, and OSCP certifications. Her work in the field of smartphone exploitation has been featured internationally in print and on television. She has presented or conducted training around the world including venues such as NSA, West Point, and Black Hat. Georgia founded Bulb Security LLC, a security consulting firm specializing in security assessments/penetration testing, security training, and research/development. She was awarded a DARPA Cyber Fast Track grant to continue her work in mobile device security culminating in the release of the open source project the Smartphone Pentest Framework (SPF). She founded Shevirah Inc. to create product solutions for assessing and managing the risk of mobile devices in the enterprise and testing the effectiveness of enterprise mobility management solutions and is a graduate of the Mach37 cybersecurity accelerator. She is the author of Penetration Testing: A Hands-On Introduction to Hacking from No Starch Press. She was the recipient of the 2015 Women’s Society of CyberJutsu Pentest Ninja award. She is on the board of advisors of the angel backed security training startup Cybrary and is a member of the CyberWatch Center's National Visiting Committee. She served as a judge for the FTC Home Inspector IoT security challenge.
+
+
+
+
+
+
+
+

@@ -32,6 +32,8 @@ aside.keynote {
 	padding-top: 1em;
 	display: flex;
 	line-height: 1.5em;
+	flex-shrink: 0;
+	flex-grow: 0;
 
 	div.image {
 		filter: grayscale(1);
