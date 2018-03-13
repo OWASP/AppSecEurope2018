@@ -16,6 +16,9 @@
   - logo: contrast.svg
     name: Contrast Security
     url: https://www.contrastsecurity.com
+  - logo: kiuwan.png
+    name: Kiuwan
+    url: https://www.kiuwan.com/
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
