@@ -6,8 +6,12 @@
     url  : program/call-for-trainings
   - title: Call for volunteers
     url  : program/volunteers
-- title: Speakers
-  url: program/keynotes
+- title: Program
+  items:
+  - title: Keynotes
+    url: program/keynotes
+  - title: Capture the Flag
+    url: program/capture-the-flag
 - title: Sponsor
   url: sponsors/
 - title: London
