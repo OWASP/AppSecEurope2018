@@ -19,6 +19,9 @@
   - logo: kiuwan.svg
     name: Kiuwan
     url: https://www.kiuwan.com/
+  - logo: acunetix.png
+    name: Acunetix
+    url: https://www.acunetix.com/
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
