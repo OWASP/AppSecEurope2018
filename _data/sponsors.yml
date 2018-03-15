@@ -22,6 +22,9 @@
   - logo: acunetix.png
     name: Acunetix
     url: https://www.acunetix.com/
+  - logo: FX_Logo_pos.png
+    name: Flexera
+    url: https://www.flexera.com/producer/
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
