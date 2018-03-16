@@ -11,5 +11,5 @@ Ways you can help:
 * Encourage the amazing speakers and trainers you know to apply
 * Forward our call for papers to your local affinity groups and ensure that they know OWASP is an inclusive place to speak.
 * Speak at your local affinity group’s meetings about the opportunities at OWASP and invite them to attend local meetings and events.
-* Suggest ways that the onsite conference experience can be more welcoming and supportive. Send an email to: [AppSecEU2018@owasp.org](mailto:AppSecEU2018@owasp.org)
+* Suggest ways that the onsite conference experience can be more welcoming and supportive. Send an email to: [appseceu-2018@owasp.org](mailto:appseceu-2018@owasp.org)
 
