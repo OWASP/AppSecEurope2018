@@ -8,6 +8,9 @@
   - logo: Checkmarx.png
     name: Checkmarx
     url: https://www.checkmarx.com/
+  - logo: scw_white_v.png
+    name: Secure Code Warrior
+    url: https://securecodewarrior.com
 - type: Silver
   sponsors:
   - logo: Twistlock_Logo.png
@@ -25,6 +28,9 @@
   - logo: FX_Logo_pos.png
     name: Flexera
     url: https://www.flexera.com/producer/
+  - logo: blackduck.png
+    name: BlackDuck
+    url: https://www.blackducksoftware.com/
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
