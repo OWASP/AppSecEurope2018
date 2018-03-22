@@ -19,12 +19,11 @@ header {
 	}
 
 	nav {
-
 		display: flex;
 		justify-content: right;
 		padding: 0.75em;
 		font-weight: bolder;
-		z-index: 5;
+		z-index: 15;
 		font-size: 0.8em;
 		padding-top: 4.8em;
 		margin-right: 5%;
@@ -131,8 +130,7 @@ header {
 	}
 }
 
-
-@media (max-width: 500px) {
+@media (max-width: 767px) {
 	header {
 		height: 5em;
 		.top {
@@ -206,6 +204,7 @@ header {
 				}
 
 				> li:hover {
+					a { color: #fff; }
 					a:hover, a:active { color: #fff; text-decoration: underline }
 
 					> ul {
