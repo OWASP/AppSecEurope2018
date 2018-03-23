@@ -1,0 +1,30 @@
+.sponsors {
+
+	h3 {
+		text-align: center;
+	}
+	div {
+		display: flex;
+		flex-wrap: wrap;
+		list-style: none;
+		margin: 0;
+		justify-content: space-around;
+		a {
+			height: 80px;
+			margin: 35px 10px;
+			width: 180px;
+			background-size: contain;
+			background-repeat: no-repeat;
+			background-position: center center;
+		}
+		&.Diamond a {
+			width: 300px;
+		}
+		&.Platinum a {
+			width: 250px;
+		}
+		&.Gold a {
+			width: 200px;
+		}
+	}
+}

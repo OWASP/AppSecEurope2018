@@ -8,8 +8,6 @@ section.image:first-of-type {
 	border-top: none;
 }
 
-
-
 section {
 	background: #fff;
 	ul {
@@ -23,7 +21,6 @@ section {
 	}
 }
 
-
 section.front {
 	padding-top: 0em;
 	text-align: center;
@@ -32,7 +29,6 @@ section.front {
 		background: $cyan;
 	}
 }
-
 
 section.image {
 	background-position: bottom right, top center, top center;
@@ -58,9 +54,9 @@ section.nopadding {
 	padding: 0em 0em;
 	line-height: 1em;
 }
-
-
-
+section.front.nopadding {
+	h2 { margin-bottom: 0em;}
+}
 
 section.huge {
 	min-height: 700px;
