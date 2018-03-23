@@ -31,6 +31,9 @@
   - logo: blackduck.png
     name: BlackDuck
     url: https://www.blackducksoftware.com/
+  - logo: avi_networks.jpg
+    name: Avi Networks
+    url: https://avinetworks.com/
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
