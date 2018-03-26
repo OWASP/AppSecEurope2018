@@ -11,6 +11,9 @@
   - logo: scw_white_v.png
     name: Secure Code Warrior
     url: https://securecodewarrior.com
+  - logo: sonatype.png
+    name: Sonatype
+    url: https://www.sonatype.com/
 - type: Silver
   sponsors:
   - logo: Twistlock_Logo.png
