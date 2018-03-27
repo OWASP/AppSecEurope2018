@@ -3,6 +3,11 @@
   - logo: netsparker.png
     name: netsparker
     url: https://www.netsparker.com/
+- type: Platinum
+  sponsors:
+  - logo: whitesource.png
+    name: Whitesource
+    url: http://www.whitesourcesoftware.com/
 - type: Gold
   sponsors:
   - logo: Checkmarx.png
