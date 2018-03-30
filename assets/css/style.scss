@@ -59,9 +59,15 @@ strong {
 a {
 	text-decoration: none;
 	color: $darkblue;
-}
-a:hover {
-	text-decoration: underline;
+	&:hover {
+		text-decoration: underline;
+	}
+	&.button {
+		padding: 0.5em 3em;
+		display: inline-block;
+		color: #fff;
+		background: $darkerblue;
+	}
 }
 
 h1,h2,h3 {
@@ -138,7 +144,40 @@ div.main {
 	box-shadow: inset 0px 120px 100px -100px rgba(0,0,0,0.5);
 }
 
+table {
+	th, td {
+		padding: 0.5em;	
+	}
+	th:first-child, td:first-child {
+		padding-left: 1em;	
+	}
+	th:last-child, td:last-child {
+		padding-right: 1em;	
+	}
 
+	tr {
+		border-bottom: 0.5em solid #fff;
+	}
+	thead tr {
+		background: $darkblue;
+		color: #fff;
+		th {
+			text-align: left;
+		}
+	}
+	tbody tr {
+		background: $lightgray;
+	}
+	tfoot {
+		font-size: 80%;
+	}
+
+	&.price {
+		td:nth-child(2), th:nth-child(2) {
+			text-align: right;
+		}
+	}
+}
 
 
 
