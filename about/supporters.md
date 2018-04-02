@@ -6,7 +6,7 @@ layout: multisection
 
 <h1>{{page.title}}</h1>
 
-OWASP AppSec Europe would like to thank the following supporters for helping to spread the word about our European conference 3<sub>rd</sub> - 6<sub>th</sub> of July, 2018.
+<p>OWASP AppSec Europe would like to thank the following supporters for helping to spread the word about our European conference 3<sub>rd</sub> - 6<sub>th</sub> of July, 2018.</p>
 
 <a href="contact">Let us know</a> if you would like to become a supporter of AppSec Europe. Community Supporters only need to do the following:
 <ul>
