@@ -45,6 +45,9 @@
   - logo: avisvg.svg
     name: Avi Networks
     url: https://avinetworks.com/
+  - logo: avataologo_blue.svg
+    name: Avatao
+    url: https://avatao.com/
 - type: Lanyard
   sponsors:
   - logo: netsparker.png
