@@ -82,6 +82,14 @@ There are several registration options:
 </tfoot>
 </table>
 
+* € 50 discount available for individual OWASP members.
+* Student Tickets – Students must present a valid student ID and proof of affiliation at an accredited university to pick up the ticket (Limited tickets available).
+* Single day tickets do not include access to social events such as the pre-conference reception and the conference dinner.
+* Groups discounts are available for 5+ or 10+ ticket batches
+* Vendor discounts are available, email Kelly for details.
+* Tickets / Conference Registration and Training Registration are nonrefundable and nontransferable.
+
+
 
 
 
