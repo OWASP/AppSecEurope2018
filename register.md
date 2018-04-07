@@ -49,13 +49,13 @@ There are several registration options:
 <tr>
 	<td>Non-Member Conference</td>
 	<td>£675</td>
-	<td>Includes conference program for two days, coffee breaks, lunch, expo, and conference event reception ticket</td>
+	<td>Includes conference program for two days, coffee breaks, lunch, expo, and networking reception event ticket</td>
 	<td>Available Now</td>
 </tr>
 <tr>
 	<td>Member Conference </td>
 	<td>£625</td>
-	<td>Includes conference program for two days, coffee breaks, lunch, expo, and conference event reception ticket</td>
+	<td>Includes conference program for two days, coffee breaks, lunch, expo, and networking reception event ticket</td>
 	<td>Available Now</td>
 </tr>
 <tr>
@@ -67,11 +67,11 @@ There are several registration options:
 <tr>
 	<td>Student</td>
 	<td>£105</td>
-	<td>Includes conference program for two days, coffee breaks, lunch, and expo.  Conference event reception ticket is not included.</td>
+	<td>Includes conference program for two days, coffee breaks, lunch, and expo.  Networking reception event ticket is not included.</td>
 	<td>Available Now</td>
 </tr>
 <tr>
-	<td>Conference Event Ticket Only</td>
+	<td>Networking Reception Event Ticket Only</td>
 	<td>£125</td>
 	<td>Additional conference event tickets can be purchased. Includes transportation to the event venue, entertainment, beer, wine and heavy hors d'oeuvres, and a great time! </td>
 	<td>Available Now</td>
