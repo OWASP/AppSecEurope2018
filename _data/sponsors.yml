@@ -22,6 +22,9 @@
   - logo: sonatype.png
     name: Sonatype
     url: https://www.sonatype.com/
+  - logo: logo-htbridge-vector.svg
+    name: High-Tech Bridge
+    url: https://www.htbridge.com/
 - type: Silver
   sponsors:
   - logo: Twistlock_Logo.png
