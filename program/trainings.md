@@ -9,8 +9,6 @@ This is the proposed training schedule for AppSec EU 2018 as of 23 April 2018. T
 <table class="price">
 <thead>
 <tr>
-<thead>
-<tr>
 	<th>Training</th>
 	<th>Fee</th>
 </tr>
