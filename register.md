@@ -32,19 +32,19 @@ There are several registration options:
 	<td>Training One Day</td>
 	<td>£830</td>
 	<td>Includes training class, coffee break & lunch</td>
-	<td>Coming Soon</td>
+	<td>Available now</td>
 </tr>
 <tr>
 	<td>Training Two Day</td>
 	<td>£1555</td>
 	<td>Includes two days of training class, coffee break & lunch on both days</td>
-	<td>Coming Soon</td>
+	<td>Available now</td>
 </tr>
 <tr>
 	<td>Training Three Day</td>
 	<td>£2555</td>
 	<td>Includes three days of training class, coffee break & lunch on all three days</td>
-	<td>Coming Soon</td>
+	<td>Available now</td>
 </tr>
 <tr>
 	<td>Non-Member Conference</td>
