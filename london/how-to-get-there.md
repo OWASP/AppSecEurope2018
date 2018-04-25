@@ -9,7 +9,7 @@ layout: multisection
 
 AppSec Europe will take place in London, United Kingdom, a dynamic and engaging city easily accessible from central Europe and most countries around the world.
 
-## Travelling to London
+## Traveling to London
 
 ### Plane
 
@@ -31,12 +31,12 @@ London Luton Airport (LTN) is located to the north-west of central London. Many 
 ### Train
 
 * EuroStar
-Eurostar is the High speed train that has revolutionised travel between London and Europe since 1994.  Operating at 300km/h, it's just over 2 hours from the heart of Paris or from the centre of Brussels to St Pancras International in Central London via Eurostar. With a choice of frequent departures, fast check in and city centre to city centre locations, Eurostar is the ultimate European travel experience. Travellers can choose between flexibility in Business Premier, comfort in Standard Premier or seamlessness in Standard.
+Eurostar is the High speed train that has revolutionised travel between London and Europe since 1994.  Operating at 300km/h, it's just over 2 hours from the heart of Paris or from the centre of Brussels to St Pancras International in Central London via Eurostar. With a choice of frequent departures, fast check in and city centre to city centre locations, Eurostar is the ultimate European travel experience. Travelers can choose between flexibility in Business Premier, comfort in Standard Premier or seamlessness in Standard.
 
 </section>
 
 <section class="inverse" markdown="1">
-## Travelling to the QEII Conference Centre
+## Traveling to the QEII Conference Centre
 
 ### London Tube System
 
