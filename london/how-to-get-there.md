@@ -48,6 +48,6 @@ London offers visitors a extensive taxi service.  All taxis accept credit card. 
 
 ### Walking
 
-If your hotel is close by, it is also very safe to walk during the day to the QEII centre which is nicely located in the financial district of London.
+If your hotel is close by, it is also very safe to walk during the day to the QEII centre which is nicely located in the centre of London.
 
 </section>
