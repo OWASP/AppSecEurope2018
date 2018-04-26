@@ -1,4 +1,84 @@
 conferenceteam:
+
+cfp:
+  - name: Owen Pendlebury
+    company: OWASP / Deloitte Ireland
+    role: Track Chair
+  - name: Adrian Winckles
+    company: Anglia Ruskin university
+    role: PC member
+  - name: Neil Curran
+    company: 
+    role: PC member
+  - name: Niall Heffernan
+    company: Deloitte Ireland
+    role: PC member
+  - name: Katy Anton
+    company: Veracode
+    role: PC member
+  - name: Luca Carettoni
+    company: Doyensec
+    role: PC member
+  - name: Sebastian Lekies
+    company: Google
+    role: PC member
+  - name: Erlend Oftedal
+    company: OWASP Norway / Blank
+    role: PC member
+  - name: Lieven Desmet
+    company: Katholieke Universiteit Leuven
+    role: PC member
+  - name: Allison Shubert
+    company: OWASP
+    role: PC member
+  - name: Sam Stepanyan
+    company: OWASP London Chapter
+    role: PC member
+  - name: Martin Johns
+    company: SAP Research
+    role: PC member
+  - name: Vandana Verma
+    company: OWASP
+    role: PC member
+  - name: Marco Balduzzi
+    company: Trend Micro
+    role: PC member
+  - name: Katherine Cancelado
+    company: Women in AppSec, Deloitte Ireland
+    role: PC member
+  - name: Boris Hemkemeier
+    company: OWASP
+    role: PC member
+  - name: Ashley Holtz
+    company: CrowdStrike Inc
+    role: PC member
+  - name: Zoe Braiterman
+    company: OWASP
+    role: PC member
+
+cft:
+  - name: Martin Knobloch
+    company: OWASP Foundation
+    role: Track chair
+  - name: David Mathy
+    company: OWASP
+    role: PC member
+  - name: Ann Murtagh
+    company: OWASP
+    role: PC member
+  - name: Niall Heffernan
+    company: Deloitte Ireland
+    role: PC member
+  - name: Fiona Walsh
+    company: OWASP
+    role: PC member
+  - name: Adrian Winckles
+    company: Anglia Ruskin university
+    role: PC member
+  - name: Erlend Oftedal
+    company: OWASP Norway / Blank
+    role: PC member
+
 staff: 
   - name: Karen Staley
     role: Executive Director
