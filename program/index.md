@@ -1,5 +1,5 @@
 ---
-title: Trainings program
+title: Full program
 ---
 
 # {{page.title}}
