@@ -23,6 +23,10 @@ This is the proposed training schedule for AppSec EU 2018 as of 23 April 2018. T
 	<td>£ 2,555.00</td>
 </tr>
 <tr>	
+	<td>3-Day Training: Advanced Web Hacking - Black Belt edition by Sunil Yadav and Sudhanshu Chauhan</td>
+	<td>£ 2,555.00</td>
+</tr>
+<tr>	
 	<td>2-Day Training: Attaching and Defending SOAP- and Rest- based Web Services by Juiraj Somorovsk</td>
 	<td>£ 1,555.00</td>
 </tr>
@@ -40,10 +44,6 @@ This is the proposed training schedule for AppSec EU 2018 as of 23 April 2018. T
 </tr>
 <tr>	
 	<td>2-Day Training:  Pentesting the modern application stack by Francis Alexander and Bharadwaj Machiraju</td>
-	<td>£ 1,555.00</td>
-</tr>
-<tr>	
-	<td>2-Day Training: Advanced web hacking by Anant Shrivastava, Sunil Yadav and Sudhanshu Chauhan</td>
 	<td>£ 1,555.00</td>
 </tr>
 <tr>	
