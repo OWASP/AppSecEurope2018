@@ -12,6 +12,8 @@
   items:
   - title: Keynotes
     url: program/keynotes
+  - title: Full Program
+    url: program/
   - title: Trainings
     url: program/trainings
   - title: Capture the Flag
