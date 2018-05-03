@@ -7,4 +7,5 @@ OWASP is a volunteer organization. Volunteering carries many benefits including 
 
 Volunteers need to sign up for a minimum of 8 hours of work to receive a complimentary conference participation badge. 
 
-There will be a form to complete if you wish to volunteer.  Please check back in the coming days to complete the volunteer form.
+User the following form to sign up as a volunteer:  
+[http://signup.com/go/WzCpRdN](http://signup.com/go/WzCpRdN)
