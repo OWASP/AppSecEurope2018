@@ -25,6 +25,9 @@
   - logo: logo-htbridge-vector.svg
     name: High-Tech Bridge
     url: https://www.htbridge.com/
+  - logo: CodeDx-logo_4C.JPG
+    name: CodeDX
+    url: https://codedx.com/
 - type: Silver
   sponsors:
   - logo: Twistlock_Logo.png
@@ -48,9 +51,12 @@
   - logo: avisvg.svg
     name: Avi Networks
     url: https://avinetworks.com/
-  - logo: avataologo_blue.svg
-    name: Avatao
-    url: https://avatao.com/
+  - logo: Cobalt_logo-2.png
+    name: Cobalt.io
+    url: https://cobalt.io/
+  - logo: continuumsecurity.jpg
+    name: Continuum Security, S.L.
+    url: https://www.continuumsecurity.net/
 - type: University Challenge
   sponsors:
   - logo: Duo.png
