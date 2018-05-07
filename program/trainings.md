@@ -27,6 +27,14 @@ This is the proposed training schedule for AppSec EU 2018 as of 23 April 2018. T
 	<td>£ 2,555.00</td>
 </tr>
 <tr>	
+	<td>3-Day Training: Practical DevSecOps: Continuous Security in the age of cloud by A. Imran Mohammed and Raghunath Gopinath</td>
+	<td>£ 2,555.00</td>
+</tr>
+<tr>	
+	<td>3-Day Training: Mobile-Sec Exploitation Breakout by Blessen Thomas</td>
+	<td>£ 2,555.00</td>
+</tr>
+<tr>	
 	<td>2-Day Training: Attaching and Defending SOAP- and Rest- based Web Services by Juiraj Somorovsk</td>
 	<td>£ 1,555.00</td>
 </tr>
