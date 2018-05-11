@@ -3,11 +3,14 @@
 		margin: 0;
 		padding: 0;
 		display: flex;
+		justify-content: center;
+
 		li {
 			list-style-type: none;
 			margin: 0;
 			padding: 0;
-			width: 33%;
+			width: 20%;
+
 
 			div {
 				filter: grayscale(1);
@@ -55,10 +58,12 @@ aside.keynote {
 @media (max-width: 500px) {
  .keynote-full {
 	ul {
-		display: block;
+		display: flex;
+		margin: 0;
+		padding: 0;
 		li {
 			display: block;
-			width: 100%;
+			width: 33.33%;
 			h4, p {
 				margin-left: 0%;
 				margin-right: 0%;
