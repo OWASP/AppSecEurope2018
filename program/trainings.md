@@ -5,6 +5,7 @@ title: Trainings
 
 This is the proposed training schedule for AppSec EU 2018 as of 23 April 2018. Training subject to change based on trainer availability.
 
+For a detailed description of each training see the [full program](/program/).
 
 <table class="price">
 <thead>
@@ -35,7 +36,7 @@ This is the proposed training schedule for AppSec EU 2018 as of 23 April 2018. T
 	<td>£ 2,555.00</td>
 </tr>
 <tr>
-	<td>2-Day Training: Attaching and Defending SOAP- and Rest- based Web Services by Juiraj Somorovsk</td>
+	<td>2-Day Training: Attacking and Defending SOAP- and Rest- based Web Services by Juraj Somorovsky</td>
 	<td>£ 1,555.00</td>
 </tr>
 <tr>
