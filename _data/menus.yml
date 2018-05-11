@@ -19,7 +19,13 @@
   - title: Networking Event
     url: program/networking-event
 - title: Sponsor
-  url: sponsors/
+  items:
+  - title: Become a sponsor 
+    url: sponsors/
+  - title: Silver Expo Floor Plan
+    url: sponsors/silver-expo-floor-plan
+  - title: Exhibitor Kit
+    url: docs/AppSec_EU_2018_Exhibitor_Kit_Final.pdf
 - title: London
   items:
   - title: The Venue
