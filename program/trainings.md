@@ -20,10 +20,6 @@ For a detailed description of each training see the [full program](/program/).
 	<td>£ 2,555.00</td>
 </tr>
 <tr>
-	<td>3-Day Training: Securing Code in Java by Robert Seacord</td>
-	<td>£ 2,555.00</td>
-</tr>
-<tr>
 	<td>3-Day Training: Practical DevSecOps: Continuous Security in the age of cloud by A. Imran Mohammed and Raghunath Gopinath</td>
 	<td>£ 2,555.00</td>
 </tr>
