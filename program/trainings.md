@@ -36,7 +36,7 @@ For a detailed description of each training see the [full program](/program/).
 	<td>£ 1,555.00</td>
 </tr>
 <tr>
-	<td>2-Day Training: OWASP ModSecurity Core Rule Set by Christian Folini</td>
+	<td>2-Day Training: OWASP ModSecurity Core Rule Set by Walter Hop</td>
 	<td>£ 1,555.00</td>
 </tr>
 <tr>
