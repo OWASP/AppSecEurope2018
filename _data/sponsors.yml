@@ -57,6 +57,9 @@
   - logo: continuumsecurity.jpg
     name: Continuum Security, S.L.
     url: https://www.continuumsecurity.net/
+  - logo: detectify.png
+    name: Detectify
+    url: https://detectify.com/?utm_source=AppSecEu&utm_medium=web
 - type: University Challenge
   sponsors:
   - logo: Duo.png
