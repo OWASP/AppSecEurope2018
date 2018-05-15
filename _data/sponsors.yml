@@ -60,6 +60,9 @@
   - logo: detectify.png
     name: Detectify
     url: https://detectify.com/?utm_source=AppSecEu&utm_medium=web
+  - logo: hackerone.png
+    name: HackerOne
+    url: https://www.hackerone.com/
 - type: University Challenge
   sponsors:
   - logo: Duo.png
