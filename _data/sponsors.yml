@@ -66,6 +66,9 @@
   - logo: hackerone.png
     name: HackerOne
     url: https://www.hackerone.com/
+  - logo: Snyk_logo.png
+    name: Snyk
+    url: https://snyk.io
 - type: University Challenge
   sponsors:
   - logo: Duo.png
