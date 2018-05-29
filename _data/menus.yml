@@ -20,7 +20,7 @@
     url: program/networking-event
 - title: Sponsor
   items:
-  - title: Become a sponsor 
+  - title: Become a sponsor
     url: sponsors/
   - title: Silver Expo Floor Plan
     url: sponsors/silver-expo-floor-plan
@@ -38,6 +38,8 @@
   items:
   - title: OWASP
     url  : about/
+  - title: News
+    url  : about/news
   - title: Team
     url  : about/team
   - title: Supporters
