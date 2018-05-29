@@ -38,8 +38,8 @@
   items:
   - title: OWASP
     url  : about/
-  - title: News
-    url  : about/news
+#  - title: News
+#    url  : about/news
   - title: Team
     url  : about/team
   - title: Supporters
