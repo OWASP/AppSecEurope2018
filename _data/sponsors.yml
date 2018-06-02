@@ -31,6 +31,9 @@
   - logo: facebook.png
     name: Facebook
     url: https://www.facebook.com/whitehat/report/
+  - logo: veracode.jpg
+    name: Veracode
+    url: https://www.veracode.com/
 - type: Silver
   sponsors:
   - logo: Twistlock_Logo.png
