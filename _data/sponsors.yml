@@ -77,12 +77,17 @@
   - logo: Duo.png
     name: Duo Security
     url: https://duo.com/
-- type: Lanyard
+- type: Capture the Flag
   sponsors:
   - logo: netsparker.png
     name: netsparker
     url: https://www.netsparker.com/
-- type: Capture the Flag
+- type: Coffee/Pastry Break
+  sponsors:
+  - logo: jscrambler.svg
+    name: Jscrambler
+    url: https://jscrambler.com/
+- type: Lanyard
   sponsors:
   - logo: netsparker.png
     name: netsparker
