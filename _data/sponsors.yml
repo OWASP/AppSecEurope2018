@@ -34,6 +34,9 @@
   - logo: veracode.jpg
     name: Veracode
     url: https://www.veracode.com/
+  - logo: microfocus.png
+    name: Micro Focus
+    url: https://software.microfocus.com/en-us/solutions/application-security
 - type: Silver
   sponsors:
   - logo: Twistlock_Logo.png
