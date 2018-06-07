@@ -88,6 +88,7 @@ There are several registration options:
 * Groups discounts are available for 5+ or 10+ ticket batches
 * Vendor discounts are available, email [Kelly](mailto:kelly.santalucia@owasp.org) for details.
 * Tickets / Conference Registration and Training Registration are nonrefundable and nontransferable.
+* Please note the fees listed are in Pounds Sterling, however your credit card will be processed in your local currency based on most current currency exchange rate, and you may be charged a foreign transaction fee by your credit card company.  OWASP is not responsible for any additional foreign transaction fees related to the processing of the registration.
 
 
 
