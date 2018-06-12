@@ -28,7 +28,7 @@ For a detailed description of each training see the [full program](/program/).
 	<td>£ 2,555.00</td>
 </tr>
 <tr>
-	<td>3-Day Training: Advanced Web Hacking - Black Belt edition by Anant Shrivastava, Sunil Yadav and Sudhanshu Chauhan</td>
+	<td>3-Day Training: Advanced Web Hacking - Black Belt edition by Sumit Siddharth, Sunil Yadav and Sudhanshu Chauhan</td>
 	<td>£ 2,555.00</td>
 </tr>
 <tr>
