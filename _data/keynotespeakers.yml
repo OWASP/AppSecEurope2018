@@ -1,10 +1,10 @@
-- image      : mario.png 
+- image      : mario.png
   name       : Mario Heiderich
   company    : Cure53
   title      : XSS is dead. We just don't get it.
   uri        : /program/keynote-mario
   description: |
-    Dr.-Ing. Mario Heiderich, handsome heart-breaker, bon-vivant and (as he loves to call himself) "security researcher" is from Berlin, likes everything between lesser- and greater-than, leads the small yet exquisite pen-test company called Cure53 and pesters peaceful attendees on various 5th tier conferences with his hastily assembled powerpoint-slides. Mario loves pretty much everything about London - the amazing weather, the great food, the fresh air, long walks at the beach... he literally cannot wait to be here again.  
+    Dr.-Ing. Mario Heiderich, handsome heart-breaker, bon-vivant and (as he loves to call himself) "security researcher" is from Berlin, likes everything between lesser- and greater-than, leads the small yet exquisite pen-test company called Cure53 and pesters peaceful attendees on various 5th tier conferences with his hastily assembled powerpoint-slides. Mario loves pretty much everything about London - the amazing weather, the great food, the fresh air, long walks at the beach... he literally cannot wait to be here again.
 - image      : ross.jpg
   name       : Ross Anderson
   company    : Cambridge University
@@ -21,7 +21,7 @@
     The Perimeter Has Been Shattered: Attacking and Defending Mobility and IoT on the Enterprise Network
   uri        : /program/keynote-weidman
   style      : |
-    background-position: left center; 
+    background-position: left center;
   description: |
     Shevirah founder and CTO Georgia Weidman is a serial entrepreneur, penetration tester, security researcher, speaker, trainer, and author. She holds a MS in computer science as well as holding CISSP, CEH, and OSCP certifications. Her work in the field of smartphone exploitation has been featured internationally in print and on television. She has presented or conducted training around the world including venues such as NSA, West Point, and Black Hat. Georgia founded Bulb Security LLC, a security consulting firm specializing in security assessments/penetration testing, security training, and research/development. She was awarded a DARPA Cyber Fast Track grant to continue her work in mobile device security culminating in the release of the open source project the Smartphone Pentest Framework (SPF). She founded Shevirah Inc. to create product solutions for assessing and managing the risk of mobile devices in the enterprise and testing the effectiveness of enterprise mobility management solutions and is a graduate of the Mach37 cybersecurity accelerator. She is the author of Penetration Testing: A Hands-On Introduction to Hacking from No Starch Press. She was the recipient of the 2015 Women’s Society of CyberJutsu Pentest Ninja award. She is on the board of advisors of the angel backed security training startup Cybrary and is a member of the CyberWatch Center's National Visiting Committee. She served as a judge for the FTC Home Inspector IoT security challenge.
 - image      : 2017_AllyMiller.jpg
@@ -31,14 +31,6 @@
     Perimeter-less: Engineering the future of Defense
   uri        : /program/keynote-miller
   style      : |
-    background-position: left center; 
+    background-position: left center;
   description: |
-    Allison Miller (@selenakyle) has been working in the intersection of cybersecurity, human behavior, and predictive analytics for almost two decades. A proven innovator in the security industry, she has pioneered the use of data-driven detection technologies within security, anti-fraud/anti-abuse, and payments/commerce systems around the world. In addition, Allison is active in the security community as an advisor and leader, and continues to conduct and share research on topics in risk, cybersecurity, and economics — both locally in the SF Bay and internationally. You can find her online. 
-
-
-
-
-
-
-
-
+    Allison Miller (@selenakyle) leads the engineering efforts for Bank of America's information security organization. With over 15 years of building teams and technology that protect people and platforms, Allison is known for her expertise in designing and implementing real-time risk prevention and detection systems running at internet-scale. Prior to her current role, Miller held technical and leadership roles in security, risk analytics, and payments/commerce at Google, Electronic Arts, Tagged/MeetMe, PayPal/eBay, and Visa International. Miller speaks internationally on security, fraud and risk, co-chaired of the O’Reilly Security Conference, is a Trustee for the Center for Cyber Safety and Education, and has held board roles with ISC(2), SIRA, and Keypoint Credit Union. 
