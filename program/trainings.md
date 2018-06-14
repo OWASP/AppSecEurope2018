@@ -62,4 +62,4 @@ For a detailed description of each training see the [full program](/program/).
 </tbody>
 </table>
 
-<a class="button" href="https://www.regonline.com/owaspappseceu2018london">Register</a>
+<a class="button" href="https://www.regonline.com/owaspappseceu2018london">Register now</a>
