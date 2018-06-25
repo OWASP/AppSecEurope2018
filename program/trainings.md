@@ -24,24 +24,8 @@ For a detailed description of each training see the [full program](/program/).
 	<td>£ 2,555.00</td>
 </tr>
 <tr>
-	<td>3-Day Training: <a href="https://appseceurope2018a.sched.com/event/EgcY/3-day-training-mobile-sec-exploitation-breakout?iframe=yes&w=100%&sidebar=yes&bg=no">Mobile-Sec Exploitation Breakout</a> by Blessen Thomas</td>
-	<td>£ 2,555.00</td>
-</tr>
-<tr>
 	<td>3-Day Training: <a href="https://appseceurope2018a.sched.com/event/EgYB/3-day-training-advanced-web-hacking?iframe=yes&w=100%&sidebar=yes&bg=no">Advanced Web Hacking - Black Belt edition</a> by Sumit Siddharth, Sunil Yadav and Sudhanshu Chauhan</td>
 	<td>£ 2,555.00</td>
-</tr>
-<tr>
-	<td>2-Day Training: <a href="https://appseceurope2018a.sched.com/event/EgYC/2-day-training-attacking-and-defending-soap-and-rest-based-web-services?iframe=yes&w=100%&sidebar=yes&bg=no">Attacking and Defending SOAP- and Rest- based Web Services</a> by Juraj Somorovsky</td>
-	<td>£ 1,555.00</td>
-</tr>
-<tr>
-	<td>2-Day Training: <a href="https://appseceurope2018a.sched.com/event/EgYD/2-day-training-owasp-modsecurity-core-rule-set?iframe=yes&w=100%&sidebar=yes&bg=no">OWASP ModSecurity Core Rule Set</a> by Walter Hop</td>
-	<td>£ 1,555.00</td>
-</tr>
-<tr>
-	<td>2-Day Training:  <a href="https://appseceurope2018a.sched.com/event/EgYE/2-day-training-secure-coding-tournament-leave-no-developer-behind?iframe=yes&w=100%&sidebar=yes&bg=no">Secure Coding Tournament - Leave no developer behind</a> by Sebastien Deleersnyder & Steven Wierckx</td>
-	<td>£ 1,555.00</td>
 </tr>
 <tr>
 	<td>2-Day Training:  <a href="https://appseceurope2018a.sched.com/event/EgcS/2-day-training-web-application-security-essentials?iframe=yes&w=100%&sidebar=yes&bg=no">Web Application Security Essentials</a> by Fabio Cerullo</td>
@@ -61,5 +45,10 @@ For a detailed description of each training see the [full program](/program/).
 </tr>
 </tbody>
 </table>
+
+
+* **ONLINE REGISTRATION CLOSES FRIDAY, JUNE 29TH AT 7:00 AM EST**
+* **ON-SITE REGISTRATION WILL OPEN ON JULY 2ND AT 9:00 AM**
+
 
 <a class="button" href="https://www.regonline.com/owaspappseceu2018london">Register now</a>
