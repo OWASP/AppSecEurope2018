@@ -4,6 +4,11 @@ title: Register Now for AppSec EU 2018 and Save!
 
 # {{page.title}}
 
+* **ONLINE REGISTRATION CLOSES FRIDAY, JUNE 29TH AT 7:00 AM EST**
+* **ON-SITE REGISTRATION WILL OPEN ON JULY 2ND AT 9:00 AM**
+
+
+
 Join your colleagues at AppSec EU 2018 the premier conference event for application and internet security.
 
 ## Training
