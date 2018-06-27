@@ -77,6 +77,18 @@ section.huge {
 	}
 }
 
+div.expo {
+    position: relative;
+    padding-top: 90%; /* Your percentage */
+}
+div.expo iframe {
+    width: 100%;
+    position: absolute;
+    height: 100%;
+    left: 0;
+    top: 0;
+}
+
 
 @media (max-width: 500px) {
 	section {

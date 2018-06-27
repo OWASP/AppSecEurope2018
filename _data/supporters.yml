@@ -1,3 +1,6 @@
 - url : https://owaspsummit.org/
   name: OWASP Summit 2018
   logo: summit.png
+- url : http://www.crest-approved.org/
+  name: CREST
+  logo: crest.jpg
