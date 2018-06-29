@@ -26,8 +26,8 @@ From London City Airport you can take the DLR train to Canning Town and change t
 
 * [Gatwick Airport](https://www.gatwickairport.com/): <br>
 Gatwick Airport is located 24 miles south of Central London. To get to conference venue from Gatwick Airport you can:
-1. Take the train to Victoria station and change there for eastbound District line to Upminster. Get off at St. James's Park Station. QEII Centre is 4 minutes walk away.
-2. Take the train to Bedford and change at Blackfriars station to westbound District Line tube. Get off at St. James's Park Station. QEII Centre is 4 minutes walk away.
+ 1. Take the train to Victoria station and change there for eastbound District line to Upminster. Get off at St. James's Park Station. QEII Centre is 4 minutes walk away.
+ + Take the train to Bedford and change at Blackfriars station to westbound District Line tube. Get off at St. James's Park Station. QEII Centre is 4 minutes walk away.
 
 * [Southend Airport](https://southendairport.com/): <br>
 Southend Airport is located 36 miles east of Central London. To get to the conference venue from Southend Airport you can take the train to London Liverpool Street station and change there for London Underground - Circle line. Get off at St. James's Park station. QEII Centre is 4 minutes walk away.
