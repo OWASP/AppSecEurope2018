@@ -7,4 +7,4 @@ title: What's going on at AppSec EU 2018?
 ## Come and join us at the QEII Centre!
 <i>2018-07-02</i>
 <br>
-<img src="/assets/images/live_venue1.JPG">QEII Centre</img>
+<img src="/assets/images/live_venue1.JPG" class="img-rounded" alt="QEII Centre">QEII Centre</img>
