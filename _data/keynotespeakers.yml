@@ -5,15 +5,6 @@
   uri        : /program/keynote-mario
   description: |
     Dr.-Ing. Mario Heiderich, handsome heart-breaker, bon-vivant and (as he loves to call himself) "security researcher" is from Berlin, likes everything between lesser- and greater-than, leads the small yet exquisite pen-test company called Cure53 and pesters peaceful attendees on various 5th tier conferences with his hastily assembled powerpoint-slides. Mario loves pretty much everything about London - the amazing weather, the great food, the fresh air, long walks at the beach... he literally cannot wait to be here again.
-- image      : ross.jpg
-  name       : Ross Anderson
-  company    : Cambridge University
-  title      : Sustainable security – an Internet of durable goods?
-  uri        : /program/keynote-ross
-  style      : |
-    background-position: center center;
-  description: |
-    Ross Anderson is Professor of Security Engineering at Cambridge University. He was one of the founders of the discipline of security economics, and leads the Cambridge Cybercrime Centre, which collects and analyses data about online wickedness. He was one of the designers of the international standards for prepayment electricity metering and powerline communications; he was one of the inventors of the AES finalist encryption algorithm Serpent; he was also a pioneer of peer-to-peer systems, hardware tamper-resistance and API security. He is a Fellow of the Royal Society, the Royal Academy of Engineering, and the Institute of Physics, and a winner of the Lovelace Medal – the UK's top award in computing. He is best known as the author of the textbook "Security Engineering – A Guide to Building Dependable Distributed Systems".
 - image      : georgia_smaller.jpg
   name       : Georgia Weidman
   company    : Bulb Security LLC
