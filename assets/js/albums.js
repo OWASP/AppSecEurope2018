@@ -19,7 +19,7 @@ function image(url) {
 
 function displayAlbum(data) {
 	var cont = document.querySelector("#albums");
-	var img = image(data.album.c.url;)
+	var img = image(data.album.c.url);
 	cont.appendChild(img);
 	img.setAttribute("data-title", data.album.n);
 	img.addEventListener('click', () => listAlbum(data));
