@@ -1,4 +1,4 @@
-var albums = ['5217500', '5217509'];
+var albums = ['5217500', '5217509', '5226564'];
 
 function loadAlbum() {
 	var albumId = albums[0];
