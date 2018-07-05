@@ -51,7 +51,9 @@ Eurostar is the High speed train that has revolutionised travel between London a
 
 ### London Tube System
 
-London offers a very centrally connected [Tube Travel System](https://tfl.gov.uk/) making it easy and quick to travel through London to reach the QEII.  The tube stations located closest to the QEII are; Saint James Park and Westminster.   
+London offers a very centrally connected [Tube Travel System](https://tfl.gov.uk/) making it easy and quick to travel through London to reach the QEII.  The tube stations located closest to the QEII are; Saint James Park and Westminster.
+
+If you are travelling to London for AppSecEU and you are taking the tube make sure you take the right exit to make walking to the venue  @QEIICentre quicker. You need Exit 6 ([Whitehall west](https://maps.google.com/?q=6+(Whitehall+west&entry=gmail&source=g)) from Westminster tube or Broadway exit  from St. James's Park tube.
 
 Oyster Card: The most convenient way to pay for your public transport travel in London is Oyster card. Oyster is a smartcard which can be used to travel on London's buses, Tube, tram, DLR, London Overground and TFL Rail trains. You can buy Oyster cards from any London Underground (Tube) ticket machine by touching "Get new cards" button. Oyster card costs £5 which can be used towards travel. You can then either top up the credit on the Oyster card for “pay-as-you-go” option or buy a weekly travelcard (unlimited journey pass for one week) if you are going to stay in London the whole week. Please note that in Central London (travel zones 1 and 2)  a single journey on the Tube will cost you £2.40 and £1.50 on London buses. You can also travel on the Tubes & buses using most contactless credit/debit cards, however beware that not all US and European contactless cards are accepted.
 
