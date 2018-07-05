@@ -89,8 +89,44 @@ div.expo iframe {
     top: 0;
 }
 
+div#albums {
+	xdisplay: flex;
+	xflex: 1 auto;
+	xalign-items: flex-start;
+	* {
+		box-sizing: border-box;
+	}
+	div {
+		width: 30%;
+		margin: 0.5em;
+		cursor: pointer;
+		position: relative;
+		display: inline-block;
+		img {
+			width: 100%;			
+		}
+	}
+	div[data-title]:after {
+		content: attr(data-title);
+		position: absolute;
+		left: 0px;
+		bottom: 0px;
+		background: rgba(0,0,0,0.5);
+		color: #fff;
+		padding: 0.5em 1em;
+	}
+}
+
+
 
 @media (max-width: 500px) {
+	div#albums {
+		div {
+			width: 100%;
+			margin: 0.5em 0;
+		}
+	}
+
 	section {
 		padding-left: 5%;
 		padding-right: 5%;
@@ -111,4 +147,5 @@ div.expo iframe {
 		}
 	}
 }
+
 
