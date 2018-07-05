@@ -1,11 +1,22 @@
-fetch("/assets/albums/5217500.json").then(res => res.json())
-	.then(displayAlbum);
-fetch("/assets/albums/5217509.json").then(res => res.json())
-	.then(displayAlbum);
+var albums = ['5217500', '5217509'];
+
+function loadAlbum() {
+	var albumId = albums[0];
+	albums = albums.slice(1);
+	if (albumId) {
+		fetch(`/assets/albums/${albumId}.json`)
+			.then(res => res.json())
+			.then(displayAlbum)
+			.then(loadAlbum);
+	}
+}
+
+loadAlbum();
 
 
 function url(ph) {
-	return `//diy2dhgsjw6gb.cloudfront.net/ph/${ph.key}/3x/${ph.id}.jpg`;
+	//return '/assets/images/live_venue1.JPG';
+	return `//diy2dhgsjw6gb.cloudfront.net/ph/${ph.key}/m/${ph.id}.jpg`;
 }
 
 function image(url) {
@@ -20,12 +31,14 @@ function image(url) {
 function displayAlbum(data) {
 	var cont = document.querySelector("#albums");
 	var img = image(data.album.c.url);
+	//var img = image('/assets/images/live_venue1.JPG');
 	cont.appendChild(img);
 	img.setAttribute("data-title", data.album.n);
 	img.addEventListener('click', () => listAlbum(data));
 }
 function listAlbum(data) {
-	var cont = document.querySelector("#albums");
+	document.querySelector("#albumName").textContent = data.album.n;
+	var cont = document.querySelector("#album");
 	cont.innerHTML = "";
 	data.photos.map(ph => {
 		cont.appendChild(image(url(ph)));

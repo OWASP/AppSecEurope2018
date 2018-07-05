@@ -89,7 +89,7 @@ div.expo iframe {
     top: 0;
 }
 
-div#albums {
+div.albums {
 	xdisplay: flex;
 	xflex: 1 auto;
 	xalign-items: flex-start;
@@ -120,7 +120,7 @@ div#albums {
 
 
 @media (max-width: 500px) {
-	div#albums {
+	div.albums {
 		div {
 			width: 100%;
 			margin: 0.5em 0;
