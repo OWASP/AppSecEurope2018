@@ -23,6 +23,7 @@ function image(url) {
 	var div = document.createElement("div")
 	var img = document.createElement("img");
 	img.src = url;
+	img.addEventListener('load', () => { img.className = 'loaded' });
 	div.appendChild(img);
 	return div;
 }

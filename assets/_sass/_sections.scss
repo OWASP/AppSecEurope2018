@@ -103,8 +103,16 @@ div.albums {
 		position: relative;
 		display: inline-block;
 		img {
-			width: 100%;			
+			width: 100%;
+			opacity: 0;
 		}
+		img.loaded {
+			opacity: 1;
+			animation-duration: 3s;
+			animation-name: fadeIn;
+			animation-iteration-count: 1;
+		}
+
 	}
 	div[data-title]:after {
 		content: attr(data-title);
@@ -115,6 +123,11 @@ div.albums {
 		color: #fff;
 		padding: 0.5em 1em;
 	}
+}
+
+@keyframes fadeIn {
+    from { opacity: 0 }
+    to   { opacity: 1 }
 }
 
 
