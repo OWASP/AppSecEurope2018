@@ -89,6 +89,9 @@ div.expo iframe {
     top: 0;
 }
 
+#albums img {
+	cursor: pointer;
+}
 div.albums {
 	xdisplay: flex;
 	xflex: 1 auto;
@@ -99,7 +102,6 @@ div.albums {
 	div {
 		width: 30%;
 		margin: 0.5em;
-		cursor: pointer;
 		position: relative;
 		display: inline-block;
 		img {
