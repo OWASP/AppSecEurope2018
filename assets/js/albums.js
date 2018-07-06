@@ -31,12 +31,13 @@ function image(url) {
 
 function displayAlbum(data) {
 	var cont = document.querySelector("#albums");
-	var img = image(data.album.c.url);
+	var img = image(data.album.c.url || url(data.photos[0]));
 	//var img = image('/assets/images/live_venue1.JPG');
 	cont.appendChild(img);
 	img.setAttribute("data-title", data.album.n);
 	img.addEventListener('click', () => listAlbum(data));
 }
+
 function listAlbum(data) {
 	document.querySelector("#albumName").textContent = data.album.n;
 	var cont = document.querySelector("#album");
