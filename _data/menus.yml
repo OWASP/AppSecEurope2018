@@ -2,12 +2,6 @@
   url  : whatsgoingon
 - title: Register
   url  : register
-- title: Submit
-  items:
-  - title: Call for volunteers
-    url  : program/volunteers
-  - title: University Challenge
-    url  : program/university-challenge
 - title: Program
   items:
   - title: Keynotes
