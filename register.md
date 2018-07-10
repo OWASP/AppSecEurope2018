@@ -1,10 +1,10 @@
 ---
-title: Register Now for AppSec EU 2018 and Save!
+title: The registration is closed. See you in 2019!
 ---
 
 # {{page.title}}
 
-<h1>Thanks for attending OWASP Appsec Europe 2018</h1>
+<h2>Thanks for attending OWASP Appsec Europe 2018</h2>
 
 <br>
 
