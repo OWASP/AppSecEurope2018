@@ -89,7 +89,10 @@ div.expo iframe {
     top: 0;
 }
 
-div#albums {
+#albums img {
+	cursor: pointer;
+}
+div.albums {
 	xdisplay: flex;
 	xflex: 1 auto;
 	xalign-items: flex-start;
@@ -99,12 +102,19 @@ div#albums {
 	div {
 		width: 30%;
 		margin: 0.5em;
-		cursor: pointer;
 		position: relative;
 		display: inline-block;
 		img {
-			width: 100%;			
+			width: 100%;
+			opacity: 0;
 		}
+		img.loaded {
+			opacity: 1;
+			animation-duration: 3s;
+			animation-name: fadeIn;
+			animation-iteration-count: 1;
+		}
+
 	}
 	div[data-title]:after {
 		content: attr(data-title);
@@ -117,10 +127,15 @@ div#albums {
 	}
 }
 
+@keyframes fadeIn {
+    from { opacity: 0 }
+    to   { opacity: 1 }
+}
+
 
 
 @media (max-width: 500px) {
-	div#albums {
+	div.albums {
 		div {
 			width: 100%;
 			margin: 0.5em 0;

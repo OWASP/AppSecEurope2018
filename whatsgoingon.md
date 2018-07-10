@@ -6,7 +6,12 @@ title: What's going on at AppSec EU 2018?
 
 ## Come and join us at the QEII Centre!
 
-<div id="albums">
+<div id="albums" class="albums">
+
+</div>
+
+<h2 id="albumName"></h2>
+<div id="album" class="albums">
 	
 </div>
 
