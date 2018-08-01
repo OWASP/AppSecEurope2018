@@ -1,0 +1,148 @@
+- track: CISO
+  items:
+  - speaker: Sebastien Deleersnyder
+    slides: "/presos/CISO_Adding-Privacy-by-Design_Sebastien-Deleersnyder_AppSecEU2018.pdf"
+    title: |
+      Adding Privacy by Design
+  - speaker: Chris Horn
+    slides: "/presos/CISO_A-View-from-Above_Chris-Horn_AppSecEU2018.pptx"
+    title: |
+      A View from Above
+  - speaker: Charles M Schmidt
+    slides: "/presos/CISO_Current-Research-and-Standards_Charles-M-Schmidt_AppSecEU2018.pdf"
+    title: |
+      Current Research and Standards
+  - speaker: Ciaran Conliffe
+    slides: "/presos/CISO_Deconstructing-Threat-Modeling_Ciaran-Conliffe_AppSecEU2018.pptx"
+    title: |
+      Deconstructing Threat Modeling
+  - speaker: Johanna Curiel.key
+    slides: "/presos/CISO_Development-to-Risk-Management_Johanna-Curiel_AppSecEU2018.key"
+    title: |
+      Development to Risk Management
+  - speaker: Ovidiu Cical
+    slides: "/presos/CISO_Regular-to-Enterprise-Ready_Ovidiu-Cical_AppSecEU2018.pdf"
+    title: |
+      Regular to Enterprise Ready
+  - speaker: Etienne Greeff
+    slides: "/presos/CISO_Seconds-out_Etienne-Greeff_AppSecEU2018.pptx"
+    title: |
+      Seconds out
+  - speaker: Tanya Janca
+    slides: "/presos/CISO_Security-is-Everyones-Job_Tanya-Janca_AppSecEU2018.pptx"
+    title: |
+      Security is Everyone's Job
+  - speaker: Dan Cornell
+    slides: "/presos/CISO_Threat-Modeling-for-IOT_Dan-Cornell_AppSecEU2018.pdf"
+    title: |
+      Threat Modeling for IOT
+  - speaker: Jacky Fox and Gina Dollard
+    slides: "/presos/CISO_Threat-Perspectives_Jacky-Fox_Gina-Dollard_AppSecEU2018.pptx"
+    title: |
+      Threat Perspectives
+- track: Developer
+  items:
+  - speaker: Pedro Fortuna
+    slides: "/presos/Developer_A-Methodology-for-Assessing_Pedro-Fortuna_AppSecEU2018.pptx"
+    title: |
+      A Methodology for Assessing
+  - speaker: Niels Tanis
+    slides: "/presos/Developer_Building-Secure-ASP-NET_Niels-Tanis_AppSecEU2018.pdf"
+    title: |
+      Building Secure ASP NET
+  - speaker: Egor Balyshev
+    slides: "/presos/Developer_Cross-Application-CSRF-Protection_Egor-Balyshev_AppSecEU2018.pptx"
+    title: |
+      Cross Application CSRF Protection
+  - speaker: Katy Anton
+    slides: "/presos/Developer_Injecting-Security-Controls_Katy-Anton_AppSecEU2018.pdf"
+    title: |
+      Injecting Security Controls
+  - speaker: Johan Peeters
+    slides: "/presos/Developer_Oauth-is-DAC_Johan-Peeters_AppSecEU2018.pdf"
+    title: |
+      Oauth is DAC
+  - speaker: Chetan Karande
+    slides: "/presos/Developer_Patterns-in-Nodejs_Chetan-Karande_AppSecEU2018.pdf"
+    title: |
+      Patterns in Nodejs
+  - speaker: Andrea Scaduto
+    slides: "/presos/Developer_Remediate-the-Flag_Andrea-Scaduto_AppSecEU2018.pdf"
+    title: |
+      Remediate the Flag
+  - speaker: Damilare D. Fagbemi
+    slides: "/presos/Developer_Secure-Software-Development_Damilare-D-Fagbemi_AppSecEU2018.pptx"
+    title: |
+      Secure Software Development
+  - speaker: Pawel Kawczyk
+    slides: "/presos/Developer_Unicode-The-Hero-or-Villain_Pawel-Kawczyk_AppSecEU2018.pdf"
+    title: |
+      Unicode The Hero or Villain
+  - speaker: Achim D. Bruker
+    slides: "/presos/Developer_Usable-Security_Achim-D-Bruker_AppSecEU2018.pdf"
+    title: |
+      Usable Security
+- track: DevOps
+  items:
+  - speaker: Max Feldman and John Sonnenschein
+    slides: "/presos/DevOps_Gamifying-Developer-Education_Max-Feldman_John-Sonnenschein_AppSecEU2018.pptx"
+    title: |
+      Gamifying Education
+  - speaker: Chris Romeo
+    slides: "/presos/DevOps_Buiding-an-AppSec-Program_Chris-Romeo_AppSecEU2018.pptx"
+    title: |
+      Buiding an AppSec Program
+  - speaker: Tony Ucedavelez
+    slides: "/presos/DevOps_Building-a-Valid-Threat-Library_Tony-Ucedavelez_AppSecEU2018.pptx"
+    title: |
+      Building a Valid Threat Library
+  - speaker: Lieven Desmet
+    slides: "/presos/DevOps_Detecting-and-Preventing_Lieven-Desmet_AppSecEU2018.pdf"
+    title: |
+      Detecting and Preventing
+  - speaker: Dirk Wetter
+    slides: "/presos/DevOps_Docker_201_Security_Dirk-Wetter_AppSecEU2018.pdf"
+    title  : |
+      Docker 201 Security
+  - speaker: Max Feldman and John Sonnenschein
+    slides: "/presos/DevOps_Gamifying-Developer-Education_Max-Feldman_John-Sonnenschein_AppSecEU2018.pptx"
+    title  : |
+      Gamifying Developer Education
+  - speaker: Jeff Williams
+    slides: "/presos/DevOps_Jumpstarting-Your-DevSecOps_Jeff-Williams_AppSecEU2018.pdf"
+    title  : |
+      Jumpstarting Your DevSecOps
+  - speaker: Matt Tesauro and Aaron Weaver
+    slides: "/presos/DevOps_Making-Continuous-Security_Matt-Tesauro_Aaron-Weaver_AppSecEU2018.pdf"
+    title  : |
+      Making Continuous Security
+  - speaker: Jack Mannino and Abdullah Munawar
+    slides: "/presos/DevOps_Securing-Containers_Jack-Mannino_Abdullah-Munawar_AppSecEU2018.pptx"
+    title  : |
+      Securing Containers
+- track: Hacker
+  items:
+  - speaker: Gareth Heyes
+    slides: "/presos/Hacker_Exploiting-Unknown-Browsers_Gareth-Heyes_AppSecEU2018.pdf"
+    title  : |
+      Exploiting Unknown Browsers
+  - speaker: Jose Selvi
+    slides: "/presos/Hacker_FIESTA_Jose-Selvi_AppSecEU2018.pdf"
+    title  : |
+      FIESTA
+  - speaker: Damian Rusinek
+    slides: "/presos/Hacker_Outsmarting-Smart-Contracts_Damian-Rusinek_AppSecEU2018.pptx"
+    title: |
+      Outsmarting Smart Contracts
+  - speaker: Jeremy Matos and Laureline David
+    slides: "/presos/Hacker_Secure-Messengers_Jeremy-Matos_Laureline-David_AppSecEU2018.pptx"
+    title: |
+      Secure Messengers
+  - speaker: Jim Manico
+    slides: "/presos/Hacker_The-Last-XSS_Jim-Manico_AppSecEU2018.pdf"
+    title: |
+      The Last XSS
+  - speaker: Soroush Dalili
+    slides: "/presos/Hacker_WAF-Bypass-Techniques_Soroush-Dalili_AppSecEU2018.pptx"
+    title: |
+      WAF Bypass Techniques
